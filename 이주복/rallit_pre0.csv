@@ -1,0 +1,852 @@
+,기업명,주소,직급,이용하는 기술스택,우대사항,해당 페이지 URL,자격요건,직무
+0,인프랩,경기도 성남시 분당구,4,"['SQL', 'Python', 'Tensorflow', 'Keras', 'Google Cloud Platform', 'AWS', 'scala', 'Java', 'ubuntu', 'Linux']","• 개인화 추천 모델 기획부터 개선까지 실제 서비스 운영 경험을 보유하신 분
+• PB 또는 TB급 이상의 데이터에 대하여 데이터 분석 또는 AI 모델 분산 학습 경험을 보유하신 분",https://www.rallit.com/positions/1961/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%EA%B0%80,"• 관련 실무 경험 5년 이상 보유하신 분
+• 통계 전공 학사 이상 또는 통계 분석 실무 경력 3년 이상
+• 어렵고 복잡한 문제를 SQL를 사용하여 효율적으로 해결할 수 있는 실력을 보유하신 분
+• 데이터 엔지니어와 협업하여 다양한 문제를 해결한 경험을 보유하신 분 
+
+[서류는 이렇게 작성해주세요.]
+• (필수) 이력서 
+• (필수) 포트폴리오 : 포트폴리오 제출이 어려우신 분은 과제를 선제출 해주세요. 
+• (선택) Github 주소
+• 진행한 업무 중 임팩트 있었던 프로젝트를 구체적으로 적어주세요. 팀으로 진행한 업무라면 본인의 기여도를 함께 작성해주세요. 문제를 해결하면서 기여한 부분, 새롭게 시도한 부분, 얻게 된 인사이트 등을 구체적으로 작성할 수록 좋아요.
+• 가장 의미있는 통계 프로젝트에 대해 알려주세요. 문제 정의, 문제 해결 과정, 분석 과정에 대한 설명, 데이터 분석과 결과 도출 과정을 구체적으로 기술해주세요.
+• 데이터를 기반으로 개선한 경험이 있다면 결과를 수치로 알려주세요. (외부 공개가 민감한 사항일 경우, 해당 부분은 제외해 주세요)", 백엔드 개발자
+1,사이벨헬스,,4,"['Python', 'AWS', 'React', 'JavaScript', 'Git', 'CI/CD', 'Shell Script', '영어', 'MySQL', 'SQL']","- DevOps 및 CI/CD, 프레임워크에 대한 숙련도가 있으신 분
+- 하나 이상의 인턴십, 협력 경험 또는 직무 경험이 있으신 분
+- ReactJS, Angular 또는 Vue 등 Javascript 기반 프레임워크 경험",https://www.rallit.com/positions/808/sibel-health-%EC%82%AC%EC%9D%B4%EB%B2%A8%ED%97%AC%EC%8A%A4-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%B1%84%EC%9A%A9-%EA%B2%BD%EB%A0%A5,"- 컴퓨터 전공 관련학과 학사 이상
+- 영어 회화 및 문서작업 가능자 (Spoken and written English proficiency)
+- 웹 서비스, API 및 RESTful 서비스에 대한 이해도가 있으신 분
+- SQL, NoSQL 등 관련 지식 보유 및 DB 설계/개발 경험
+- Python, Javascript 프로그래밍 언어에 익숙하신 분
+- 클라우드 컴퓨팅에 대한 이해도가 있으신 분
+- AWS 같은 클라우드 컴퓨팅 서비스 기반 개발 경험", 사이벨헬스 클라우드/백엔드 엔지니어
+2,빅웨이브로보틱스,서울특별시 강남구,4,"['AWS', 'Kotlin', 'devops', 'Redis', 'Linux', 'JUnit', 'Firebase', 'Flutter', 'React', 'GitHub']","• 로봇과 로봇을 사용한 서비스 및 알고리즘 개발에 관심 있는 분
+• 하드웨어-소프트웨어-통신 전반의 시스템 이해 및 설계 능력
+• modbus, serial, TCP/UDP 등 디바이스간 통신에 대한 경험이 있으신 분
+• FastApi 활용 개발 경험이 있는 분
+• 통합 관제 및 운영 플랫폼 개발 경험이 있으신 분
+• 프로토콜 수립 및 메세지/데이터 표준화에 경험이 있는 분
+• AWS Certification Associate 이상 자격 보유
+• 빅데이터 처리 및 활용 서비스 개발/운영 경험",https://www.rallit.com/positions/2051/%EB%A1%9C%EB%B4%87-%ED%86%B5%ED%95%A9-%EA%B4%80%EC%A0%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-5%EB%85%84-%EC%9D%B4%EC%83%81,"• 경력 : 5년이상 
+• AWS 클라우드 환경에서의 서비스 구축
+• Redis 등 비동기 Pub/Sub 처리 시스템 설계 경험
+• RESTful 백엔드 API 개발에 대한 충분한 경험이 있으신 분
+• WebSocket 등 웹기반 통신방법에 대해 충분한 경험이 있으신 분
+• Docker/Kubernetes, ECS/EKS 등 활용 경험 있으신 분
+• Kafka, BigQuery 등 대용량 데이터 처리 시스템 설계 경험이 있으신 분
+• CI/CD를 활용한 소프트웨어 빌드 및 배포에 능숙하신 분
+• 오픈소스 기반 웹, API 형태의 개발 경험이 충분히 있으신 분
+• MSA 기반 시스템 개발 경험",백엔드 개발자
+3,패스트뷰,서울특별시 강남구,4,"['AWS', 'bitnami', 'Shell Script', 'PHP', 'Python']","• AWS 환경에서 다양한 서비스를 처음부터 끝까지 구축하고 운영한 경험이 있으신 분
+• CloudWatch, Datadog 등 Observability 플랫폼 구축 및 운영 경험이 있으신 분
+• Cloud Formation Terraform 등 IaC 경험이 있으신 분
+• 기존 사용 기술의 문제점과 대체 도구 발견 또는 개발에 능숙하신 분",https://www.rallit.com/positions/1771/devops-engineer-3%EB%85%84-%EC%9D%B4%EC%83%81,"• AWS 기반 인프라 설계 및 운영 경험을 보유하신 분 (최소 3년 이상)
+• bitnami 워드프레스 (또는 php기반 웹 서비스) 운영 경험 보유자
+• 스크립트 코딩 역량 보유 (Shell script, Python 등)",백엔드 개발자
+4,브레이브모바일,서울특별시 강남구,4,"['AWS', 'Kubernetes', 'Docker', 'Prometheus', 'grafana']","• 고가용성을 위해 다양한 전략으로 신뢰성을 확보하신 분
+• 주도적으로 문제를 정의하고, 해결 방안을 도출하시는 분
+• MSA 환경에서 서비스 개발 및 운영 경험이 있으신 분
+• 애플리케이션에 대한 트러블슈팅, 성능 분석 경험이 있으신 분
+• 서비스 보안 관점에서 AWS, Kubernetes를 고민하고 적용해 보신 분
+• Golang, Python, bash script 등 1가지 이상의 프로그래밍 언어를 능숙하게 다루시는 분",https://www.rallit.com/positions/1567/%EC%88%A8%EA%B3%A0-sre-site-reliability-engineer,"• 5년 이상의 SRE 경험이 있거나 이와 유사한 시스템 운영 경험이 있으신 분
+• 성능 테스트로 서비스를 분석하고 개선해 본 경험이 있으신 분
+• AWS Cloud, Kubernetes 환경에서 서비스를 운영하며 모니터링한 경험이 있으신 분
+• 대용량 트래픽에서 서비스 운영 및 트러블 슈팅을 한 경험이 있으신 분",  SRE
+5,효성에프엠에스,서울특별시 강남구,4,"['Python', 'AWS', 'TDD']","""• Python과 Python Framework (Django / Flask 등)를 이용한 백엔드 서버 개발 경험 있으신 분
+• 대규모 서비스의 설계, 개발 및 유지보수 경험이 있으신 분
+• 테스트 자동화 또는 TDD 경험이 있으신 분
+• 이종간 프로그램언어로 작성된 서비스를 개발하거나 운영해본 경험이 있으신 분
+• 프로젝트 및 팀 리딩 경험이 있으신 분
+• NoSQL를 이용한 대용량 데이터 처리 설계/개발 경험이 있는 분
+• 마이크로서비스 아키텍쳐 개발 경험이 있는 분
+  - Kubernetes, Docker를 활용한 서비스 운영 경험
+  - Git 등의 분산버전관리시스템 사용에 능숙하신 분
+  - Jira, Confluence, Slack 등의 툴을 이용한 협업 및 커뮤니케이션 경험을 가지신 분
+""",https://www.rallit.com/positions/1290/%ED%9A%A8%EC%84%B1%EC%97%90%ED%94%84%EC%97%A0%EC%97%90%EC%8A%A4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%B1%84%EC%9A%A9,"""<필수 요건>
+• 백엔드 개발 경력 7년 이상 또는 그에 준하는 실력을 갖추신 분
+• 소프트웨어 아키텍처 또는 서비스 인프라 설계 가능하신 분
+• 주도적으로 AWS 환경에서 개발 및 운영 경험이 있으신 분
+• 웹서비스 API에 대한 이해가 있으신 분
+• (언어 무관) 서버 사이드 Framework에 대한 깊이 있는 이해가 있으신 분
+• RDBMS 설계 및 운영 경험이 있으신 분
+• CI & CD 를 구축하거나 운영해본 경험이 있으신 분
+""",백엔드 개발자
+6,유니유니,경기도 성남시 분당구,4,"['Java', 'React', 'Github', 'Node.js', 'AWS']","- 개발 방법론 (Agile, CBD 등)을 프로젝트 진행에 적용 경험이 있으신 분
+- 개발 협업 툴 환경을 구축/관리 해본 경험이 있으신 분 (Figma, Jira, Trello, Teams)
+- 서비스 초기 기획부터 구축, 운영, 모니터링까지 참여한 경험이 있는 분
+- 본인이 맡은 업무를 끝까지 책임지고 수행할 수 있는 분
+- 스스로 학습 및 몰입하고, 강한 실행을 보여주실 수 있는 분
+- 기존 방식보다 효율적인 방법을 고민하고 개선하는 것을 좋아하시는 분
+- CI/CD를 통해 테스트/빌드/배포 경험이 있으신 분
+- 웹성능 최적화 경험이 있으신 분
+- 연구개발 책임자 수행 가능하신 분",https://www.rallit.com/positions/1796/%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC-%EC%9C%A0%EB%8B%88%EC%9C%A0%EB%8B%88-%EA%B0%9C%EB%B0%9C-%EB%A6%AC%EB%93%9C-%EC%B1%84%EC%9A%A9,"- 개발 경력 5년 이상이며, 기업 내 IT 조직 및 스타트업에서 Team lead 이상을 맡아보신 분
+- 프로젝트 추진을 위해 문제점 진단 및 정의, 해결방안 또는 대안 제시가 가능하신 분
+- 웹/앱/서버 등 개발 업무 전반에 대한 이해도가 높으신 분
+- 팀플레이를 즐기고, 긍정적이고 적극적으로 커뮤니케이션하는 분
+- 기획 / 디자인 등 다양한 직군과의 원만한 커뮤니케이션 및 협업이 가능하신 분
+- 새로운 기술에 관심이 많고 꾸준히 스스로 학습 하시는분
+- AWS 경험이 있으신 분", 리드 개발자
+7,와탭랩스,서울특별시 서초구,4,"['Java', 'AWS', 'Kubernetes']","• 프리세일즈 경험자 우대
+• 모니터링 제품 경험자(Whatap, Datadog, NewRelic, 제니퍼, 엑셈 등) 우대
+• 쿠버네티스 자격증 소지자 우대
+• AWS 자격증 소지자 우대",https://www.rallit.com/positions/1304/%EC%86%94%EB%A3%A8%EC%85%98-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-it-%EC%84%B1%EB%8A%A5-%EC%BB%A8%EC%84%A4%ED%84%B4%ED%8A%B8,"• 관련 경력 3년 이상
+• 원활한 대인 관계 및 커뮤니케이션 능력을 보유한 분
+• 책임감과 성실성을 갖추신 분
+• IT 트렌드에 따른 기술 습득에 거부감이 없으신 분
+
+아래 조건 중 한 가지 이상 만족하시는 분
+• APM(Application Performance Management) 사용 경험
+• Kubernetes 사용 경험
+• WEB/WAS 사용, 운영 경험
+• DB 백업 및 복구, 모니터링, 운영 등의 기술 보유
+• Application (Java, Go, Node.js, Python, PHP, .NET) 개발 경험
+
+※ 신입의 경우 위 기술에 대해 설명 가능한 분",솔루션 엔지니어/IT 성능 컨설턴트
+8,런치팩,서울특별시 강남구,4,"['Vue.js', 'AWS', '플랫폼 비즈니스']","이런 관심/경험은 마음껏 어필해 주세요!
+- 웹 기반 UI Editor 개발 경험
+- Vue.js 프로젝트 실무 개발 경력 1년 이상
+- Django, Node.js 등 백엔드 개발 경험
+- AWS 인프라 구축 경험
+- UI/UX에 대한 관심
+- 플랫폼 서비스를 개발/운영해 본 경험
+- 프론트엔드 프로젝트 체계화에 대한 관심",https://www.rallit.com/positions/1016/%EB%9F%B0%EC%B9%98%ED%8C%A9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%8B%9C%EB%8B%88%EC%96%B4,"이런 분이 필요합니다.
+- 프론트엔드 개발 경력 3년 이상 보유하고 계신 분
+- 상용 서비스 개발/운영 경험이 있으신 분
+- Vue.js 프로젝트 개발 경험이 있으신 분
+- 반응형 웹 개발 경험이 있으신 분
+
+저희와 핏이 잘 맞을 수 있는 분들의 유형이에요.
+- 개발자 없이 웹서비스 구현이 가능한 세상에 기여하고 싶으신 분
+- 스타트업 창업에 관심이 높거나, 실제로 창업을 시도하고 초기 허들을 경험한 분
+- 팀원들과 함께 소통하며 문제를 해결해 나갈 수 있으신 분
+- 문제를 인식하고 해결하는 데 있어 주도적으로 일하는 것을 편하게 느끼시는 분", 프론트엔드 개발자
+9,라텔앤드파트너즈,서울특별시 중구,9,"['Python', 'Spring', 'AWS', 'Git', 'iOS', 'HTML/CSS']",• ISMS 경험이 있는 분,https://www.rallit.com/positions/1934/dba-%EA%B2%BD%EB%A0%A5,"• MSSQL 사용 경력
+• 5년 이상의 DBA 경험
+• 데이터베이스 인덱스에 대한 이해
+• 데이터베이스 성능 분석 및 튜닝에 대한 경험",데이터 베이스 관리자
+10,21세기전파상,서울특별시 서초구,4,"['Git', 'Github', 'MySQL', 'SQL', 'React', 'React Native', 'JavaScript', 'Node.js', 'AWS']","• 백엔드 실무 경험 3년 이상
+• 로드 밸런싱 및 서버 부하 조절 경험이 있으신 분
+• 커머스 또는 O2O 개발 경험이 있으신 분
+• 풀스택 개발이 가능하신 분
+• 초기 스타트업에서 주도적인 역할을 담당하였거나 창업 경험이 있으신 분",https://www.rallit.com/positions/677/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90,"• Git 사용 및 전반적인 소스 CI/CD 경험자
+• Node.js express Nest.js Framework 개발 경험이 있으신 분 
+• RESTful API구축 및 설계 경험이 있으신 분
+• 외부 rest api 연동 및 Oauth2 기본 개념을 가지고 있으신 분 
+• CentOS 및 클라우드 컴퓨팅 서버(AWS, NCP)관련한 지식이 있으신 분",총괄 개발자
+11,중고나라,서울특별시 서초구,4,"['AWS', 'Kubernetes', 'Terraform', 'helm', 'GitHub', 'Docker', 'container', 'devops', 'cloud-computing', 'CI/CD']","클라우드 서비스(GCP GKE etc) 실무 경험 보유
+서비스, 인프라 모니터링에 대한 이해가 있으신 분
+스크립트 (Shell, Python) 작성 및 활용이 가능한 분
+C2C거래 또는 플랫폼 서비스에 관심이 많은 분",https://www.rallit.com/positions/1838/sre-devops-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EA%B2%BD%EB%A0%A5,"3년 이상 또는 이에 준하는 경력을 가지신 분
+AWS Cloud, Kubernetes 경험이 있으신 분
+Service Mesh에 대한 이해
+Terraform, Helm 기반의 IaC 실무 경험이 있으신 분
+도커, 컨테이너 서비스에 대한 이해
+CI/CD 파이프라인 구축 및 운영 경험",데브옵스 엔지니어
+12,테이퍼랩스,서울특별시 강남구,0,"['AWS', 'Lambda', 'Node.js', 'Elasticsearch', 'openai', '인공지능(AI)', 'NLP']","우대사항
+- 원격 근무 및 SaaS에 대한 관심 및 경험 보유자
+- OpenAI API, LangChain 등에 대한 관심 및 개발 경험
+- Node.js Web Framework에 대한 이해도 및 경험
+- Amazon Web Services(Lambda, EC2, S3, CloudFront 등)에 대한 이해도 및 경험
+- Database 설계 및 최적화에 대한 이해도 및 경험
+- Elastic Search 등 엔진, 라이브러리 기반 검색 시스템 구축 경험
+- Cloud 비용 최적화 경험 보유자
+- 대용량 트래픽 분산 처리 아키텍쳐에 대한 이해",https://www.rallit.com/positions/158/backend-engineer,"자격요건
+- 컴퓨터 공학 등 전공자 또는 3년 이상 현업 경험자",백엔드 엔지니어
+13,엔블리스컴즈,서울특별시 동작구,4,"['AWS', 'MySQL', 'Spring Boot', 'Back-End', 'Web API']","- 컴퓨터공학 및 공학 관련 계열을 전공하신 분
+- 다양한 백엔드 개발 경력을 보유하신 분
+- 웹 및 서버 보안에 대한 이해도를 가지신 분
+- 글로벌 서비스 경험이 있으신 분
+- 서비스를 운영하는 스타트업 경험이 있으신 분
+- 소프트웨어 품질, 생산성을 합리적으로 생각하고 해결이 가능하신 분",https://www.rallit.com/positions/305/%EB%B0%B1%EC%97%94%EB%93%9C-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%EC%9E%90,"- 필요한 업무 기술의 경험과 이해도가 높으신 분
+- 웹 서비스에 대한 이해와 책임감이 있으신 분
+- 코드 리뷰에 긍정적이고, 원활한 커뮤니케이션이 가능하신 분
+- 다양한 직군의 동료들과 협업하여 문제를 파악하고 해결할 수 있는 분
+- 유저가 겪는 문제점을 찾고 기술로 해결하는 일에 관심 있는 분",백엔드/서버 개발자
+14,지냄,서울특별시 강남구,4,"['Node.js', 'TypeScript', 'PostgreSQL', 'MySQL', 'NestJS', 'Redis', 'TypeORM', 'Docker', 'AWS', 'github-actions']","- 보여주실만한 Github Repository가 있으신 분
+ - Nest.js 개발 경험이 있으신 분
+ - DevOps, Docker, KBS 등에 관심이 많으신 분
+ - 테스트 코드 및 배포 자동화(CI/CD) 작성 경험이 있으신 분
+ - 리팩토링과 코드 리뷰를 즐겨 하시는 분",https://www.rallit.com/positions/2240/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90,"- 백엔드 개발 실무 경력 4년 이상이거나 그에 준하는 역량을 보유하신 분
+- Node.js를 이용한 백엔드 개발 경험이 있으신 분
+- TypeORM, Prisma, Sequelize 등 ORM을 활용한 개발 경험이 있으신 분
+- Restful API 개발 및 설계를 해보신 분
+
+[요구 기술 스택입니다👌]
+Node.js, Nest.js
+TypeScript
+PostgreSQL, MySQL
+Redls
+TypeORM
+Docker
+AWS
+Git / Github Action (CI/CD)
+Swagger
+Jest, Mocha
+Websotrm, Datagrip",백엔드 개발자
+15,럽맘,서울특별시 강서구,1,"['Django', 'FastAPI', 'MySQL', 'Google Cloud Platform', 'Azure', 'AWS']","- 다양한 프레임워크를 과감하게 도전해보실 분
+
+- 팀 운영을 해보고 싶으신 분
+
+- 신규 개발자 양성에 관심이 많으신분",https://www.rallit.com/positions/2130/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-django-%ED%8C%80%EC%9E%A5%EA%B8%89-%EC%B1%84%EC%9A%A9,"- Python 웹 프레임워크 경험 1년 이상
+
+- 클라우드 플랫폼에 서버 배포 경험
+
+- 다른팀과의 협업 및 의사소통에 문제 없으신분",백엔드 개발자
+16,위펀,,1,"['Java', 'Spring Boot', 'JPA', 'querydsl', 'REST API', 'Linux', 'AWS', 'MySQL', 'MariaDB']","성능 벤치마킹 및 최적화 경험
+물류, ERP, CRM 도메인에 대한 이해 혹은 개발 경험
+NodeJS 개발 경험
+프로그래밍 언어 또는 프레임워크가 다른 레거시 프로젝트를 점진적으로 리팩터링 하여 전환한 경험
+JUnit 을 활용한 유닛 테스트 작성 경험
+AWS/GCP 등 Cloud 기반 Infra 혹은 서비스 운영 경험
+CI/CD 파이프라인 구성 경험
+AL/ML/DL 을 활용하여 서비스 품질을 개선한 경험
+대용량 아키텍처 또는 데이터 파이프라인 설계/구축 경험
+Microservice 아키텍처 기반의 서비스 개발 경험
+Docker 또는 Kubernetes 등 Container 환경에서 개발 경험
+Kubernetes Cluster 구축 또는 운영 경험
+Kafka 또는 RabbitMQ 등 메세지 브로커 또는 큐를 활용한 개발 경험
+Scrum(애자일 개발 프로세스) 프로젝트 수행 경험 또는 MVP(Minimum Viable Product) 개발 경험
+반복적인 업무를 자동화하여 업무 효율을 개선한 경험",https://www.rallit.com/positions/1923/%EC%A3%BC-%EC%9C%84%ED%8E%80-backend-engineer,"3년 이상의 백엔드 개발 경험 또는 그에 준하는 역량을 보유하신 분
+Java, Spring Boot를 이용한 개발 경험이 있으신 분
+JPA, Querydsl 등 ORM 기술을 활용한 개발 경험이 있으신 분
+MySQL/MariaDB 또는 하나 이상의 관계형 데이터베이스 활용 경험 있으신 분
+RESTful API 설계 및 개발 경험
+기본적인 Linux/Unix 명령어 활용 능력",백엔드 엔지니어
+17,피나클FINAKLE,,1,"['Python', 'AWS', 'Docker', 'ec2', 'Redis', 'FastAPI', 'MySQL', 'Node.js', 'nginx', 'Kubernetes']","• 핀테크 경험이 있으신 분
+• 블록체인 기술에 대한 이해와 응용경험이 있으신 분
+• (남성의 경우) 병역의 의무를 마치신 분 또는 군면제자",https://www.rallit.com/positions/2112/backend-developer,"• 최소 2년 이상
+• Python 기반 프레임워크 경험이 있으신 분 ( FastAPI, Flask, Django etc. )
+• AWS를 활용한 배포경험이 있으신 분
+• 다른 포지션과 협업 및 프로덕션 경험이 있으신 분
+• 증권계좌 연동, 금융 공공API 연동, 금융기관등 외부 시스템 연동 및 사용 경험이 있으신 분",백엔드 개발자
+18,다이노즈,,0,"['NestJS', 'Node.js', 'AWS']","- 커뮤니티, SNS 웹/앱 서비스 운영/구현 경험 보유
+- Firebase 연동 경험 보유 (Auth, Storage, Dynamic links 등)
+- 스타트업 경험자",https://www.rallit.com/positions/1115/%EC%9D%B8%EC%9E%AC%ED%92%80-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-nest-js-node-js,"- 기술 Stack : [BE] Nest.js (Node.js)
+    - 참고 : [FE,Client] Flutter (+Firebase)
+    - (DevOps) 기타 - AWS (RDS, Codepipeline, ElasticBeanstalk)
+- API 설계 및 구현 경험", 백엔드 개발자
+19,브리치,서울특별시 강남구,4,"['PHP', 'JavaScript', 'Python', 'Node.js', 'Spring Boot', 'AWS']","• 오픈소스 이용한 개발 경험 보유자
+• Rest API 개발 유경험자
+• 모바일/이커머스/o2o서비스에서 개발 경험
+• 대용량 데이터 시스템 처리 및 운영 경험자
+• 리눅스 플랫폼에서도 익숙하게 개발할 줄 아는 개발자
+• AWS 시스템 관리 경험이 있는 분
+• 사용자 통계 데이터 수집 및 분석 경험이 있는 분
+• Unit Test 에 대한 이해도가 높으신 분",https://www.rallit.com/positions/506/%EB%B9%84%ED%94%8C%EB%A1%9C%EC%9A%B0-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%EC%9E%90,"• PHP 유경험자
+• Modern PHP Programming, OOP에 대한 이해
+• Backend 프레임워크 CodeIgniter, Laravel 등 유경험자
+• Frontend 프레임워크 React JS, Vue JS, Angular JS 등 유경험자
+• Git 이슈트래커 등 협업경험", 백엔드/서버 개발자
+20,레인포컴퍼니,,4,"['JavaScript', 'TypeScript', 'NestJS', 'TypeORM', 'Git', 'AWS']","**우대사항은 그저 우대사항일 뿐입니다.**
+
+- 24 / 365 서비스 개발 경험
+- CI / CD 파이프라인 구축 경험
+- AWS 클라우드 기반 인프라 구축 및 운영 경험
+- 유지보수성 및 확장성을 고려한 코드 구현 경험
+- 테스트 코드 작성 경험
+- Spring 기반 백엔드 개발 2년 이상 혹은 그에 준하는 실력을 갖추신분
+
+    → Java, SpringBoot, Mybatis, JPA 기반의 웹 어플리케이션 개발 경험",https://www.rallit.com/positions/1358/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90,"**아래의 NestJS, Spring 기반 경험 중 하나만 해당 하시면 돼요!** 
+
+- NestJS 기반 백엔드 개발 2년 이상 혹은 그에 준하는 실력을 갖추신분
+    
+    → TypeScript, NestJS, TypeORM 기반의 웹 어플리케이션 개발 경험
+    
+- API 시스템 설계 및 개발 경험
+- RDBMS, NoSQL 사용한 테이블 설계 및 개발 경험
+- Git을 사용한 형상 관리 경험
+- 문제 해결에 대한 다양한 접근과 해결 방안에 대해 고민해본 경험
+- 문서화를 습관처럼 하시는분
+- 커뮤니케이션이 원활하고 코드 리뷰에 적극적이신분
+- 개발자로서 성장에 대해 계속 고민하시는분",프론트엔드 개발자
+21,롯데헬스케어,서울특별시 송파구,0,"['AWS', 'Kubernetes', 'Terraform', 'Jenkins', 'Ansible', 'Google Cloud Platform', 'Azure', 'Prometheus', 'Kafka', 'Airflow']","• DevOps 분야에서 5년 이상의 경험
+• Google Cloud Platform, Microsoft Azure에 대한 경험
+• 다양한 프로그래밍 언어 개발 경험
+• SRE(Site Reliability Engineering)에 대한 경험
+• Agile 개발에 대한 경험
+• Kubernetes(EKS), ArgoCD, Github action, Prometheus나 Open metrics 에 대한 이해, 
+   각종 모니터링, 장애대응에 대한 경험
+• Kafka나 Glue, Airflow 같은 Data pipelines 이나 ETL 관련 기술 경험
+• 다양한 문제에 대해 집요하게 원인을 파고 들수 있는 의지와 경험을 가진 사람
+• 다양한 기술의 밑바닥까지의 호기심을 가진 사람",https://www.rallit.com/positions/1642/devops-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4,"• 컴퓨터 과학 또는 관련 분야의 학사 학위
+• DevOps 분야에서 2년 이상의 경험
+• 네트워크에 대한 깊은 이해
+• AWS, Container, Kubernetes 및 클라우드 인프라 전반에 대한 견고한 이해
+• Terraform IaC(Infrastructure as Code) 구축 및 유지 관리
+• Jenkins, Ansible 및 Chef와 같은 자동화 도구에 대한 경험
+• 뛰어난 문제 해결 및 문제 해결 기술
+• 뛰어난 의사 소통 및 팀워크 기술",
+22,라텔앤드파트너즈,서울특별시 중구,4,"['Python', 'Spring', 'AWS', 'Git', 'iOS', 'HTML/CSS', 'Java']","• 테스트 코드 작성 및 코드 리뷰에 적극적인 분
+• 서비스 운영 및 지속적인 구조 개선을 위해 노력하는 분
+• JPA, Hibernate 등 ORM 경험이 있는 분",https://www.rallit.com/positions/1935/java-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-4%EB%85%84-%EC%9D%B4%EC%83%81,"• 개발 경력 4년 이상
+• Java 기반 Spring Framework, RDBMS(MSSQL 등)를 이용한 개발 경험자
+• 원활한 커뮤니케이션 및 협업 능력을 가지신 분
+• 성장하고자 하는 의지와 욕구가 강력한 분
+• 해외 여행에 결격 사유가 없는 자",데이터 베이스 관리자
+23,패스트뷰,서울특별시 강남구,4,"['AWS', 'Node.js', 'Kotlin', 'Spring', 'PHP', 'Confluence', 'Java', 'Spring Boot', 'MySQL']","• 데이터 스크래핑 경험이 있으신 분
+• 레디스/맴캐시드 등 캐싱 도구 사용 경험이 있으신 분
+• RDBMS 뿐 아닌 다양한 데이터베이스를 다뤄보신 분 
+• 글로벌 서비스를 런칭 및 운영 해보신 분
+• 처음부터 신규 서비스 개발에 참여해 런칭을 해보신 분
+• 다양한 분야의 사람과의 팀워크 협업능력과 커뮤니케이션 능력이 뛰어나신 분
+• 협업을 위한 개발도구를 활용하여 프로세스를 만들고 표현할 수 있는 분
+• 이슈에 대해 효과적인 커뮤니케이션이 가능한 분",https://www.rallit.com/positions/1770/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-5%EB%85%84-%EC%9D%B4%EC%83%81,"• 백엔드 경력 5년 이상
+• AWS 사용 및 운영 경험
+• 코틀린 사용경험
+• 앱/웹 등 다양한 플랫폼 서비스 개발 경험
+• Java(1.8이상) / Spring Boot 환경에서 RESTful 서비스 개발 경험
+• MySQL / Aurora 등 RDMBS에 대한 이해와 JPA / Hibernate 등 ORM 경험
+• Git 기반소스 버전 관리 경험
+• 웹 애플리케이션 성능 최적화, 유지보수, 트러블슈팅 경험",백엔드 개발자
+24,라이프시맨틱스,,4,"['AWS', 'Kubernetes', 'Kafka', 'grafana', 'CI/CD']","• 긍정적이고 원활한 커뮤니케이션 능력이 있으신 분
+• 디지털 헬스케어 분야에 관심이 있으신 분",https://www.rallit.com/positions/2306/devops-engineer,"• AWS, NCP 등 퍼블릭 클라우드 아키텍처 설계 및 운영 경험이 있으신 분
+• Kubernetes 등 컨테이너 오케스트레이션 도구를 다뤄보신 분
+• Kafka, ELK, InfluxDB, Grafana 등 옵저버빌리티 및 모니터링 인프라 운영 경험이 있으신 분
+• CI/CD 파이프라인 구축 경험이 있으신 분
+• 지시에 따라 업무를 수행하는 것이 아니라 적극적으로 문제를 정의하고 해결하는 분",데브옵스 엔지니어
+25,오비맥주,서울특별시 강남구,9,"['Python', 'SQL', 'Java', 'AWS', 'Azure', 'Google Cloud Platform']","[Tech]
+- Experience in Data Science related projects
+- Extensive experience working with Azure platforms & services
+
+[Industry-Optional]
+- CPG or alcohol industry
+- Data scientist, data engineer, business analyst
+- Data visualization 
+
+[Personality-Optional]
+- Ability to comprehend and converse in English to communicate effectively",https://www.rallit.com/positions/1791/data-sr-engineer,"[Tech]
+- Proficiency in programming languages like Python, SQL, and Java.
+- Familiarity with cloud platforms and services like AWS, Azure, or GCP.
+- Understanding of data modeling and database design principles 
+- Knowledge of data warehousing and ETL (Extract, Transform, Load) processes & best practices of pipeline - management  
+
+[Leadership]
+- A mindset of continuous learning
+- Strategic thinking and the ability to align data engineering initiatives with organizational goals.
+- Problem-solving and decision-making skills to overcome challenges and drive successful outcomes
+
+[Position Experience]
+- A bachelor's or master's degree in a relevant field such as Computer Science, Data Engineering, Data Science, or a related discipline. 
+- Over 8+ years of experience in data engineering, data architecture, or a related field.
+- Experience in managing and leading a team of data engineers. 
+- Ability to effectively manage multiple projects and changing priorities",Data Sr. Engineer
+26,올림플래닛,서울특별시 강남구,9,"['GO', 'AWS', 'Kubernetes', 'Docker', 'Spring Boot', 'Java', 'Elasticsearch', 'MySQL', 'Node.js', 'JavaScript']","• Docker 및 Kubernetes 사용 경험이 있는 분
+
+• 인프라 운영 및 장애 대응 경험이 있는 분",https://www.rallit.com/positions/2263/be%EA%B0%9C%EB%B0%9C,"• 컴퓨터공학에 대한 전문 지식을 갖춘 분(학/석사 학위)
+
+• 정보처리기사 자격증을 보유한 분
+
+• 3D 그래픽에 대한 이해도가 높은 분
+
+• 개발 트렌드 분석 및 셀프 트레이닝 역량을 지닌 분",BE개발자
+27,원더베리,서울특별시 도봉구,4,"['AWS', 'Google Cloud Platform', 'Azure', 'Docker', 'Kubernetes', 'CI/CD', 'REST API', 'GraphQL', 'Node.js']","- Kubernetes 사용 경험이 있으신 분
+- CI/CD 파이프라인 구축 경험이 있으신 분",https://www.rallit.com/positions/385/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4,"- 1년 이상 유관 분야 개발 경험이 있으신 분
+- 언어와 무관하게 하나의 언어에 대한 높은 이해도가 있으신 분
+- Node.js 기반 프레임워크로 개발 경험이 있으신 분
+- Docker를 사용한 개발 경험이 있으신 분
+- 클라우드 환경에 대한 이해(AWS, GCP, Azure 등)가 있으신 분
+- REST API 또는 GraphQL에 대한 이해가 있으신 분
+- 버전 관리 도구(Git)를 능숙하게 사용하시는 분",데브옵스 엔지니어
+28,이너웨이브,서울특별시 금천구,4,"['Java', 'SQL', 'JPA', 'ORM', 'Shell Script', 'AWS', 'REST API', 'Node.js']","▣ 마이크로서비스에 대한 이해 / 개발 가능하신 분
+▣ JPA(ORM) 기반 개발 가능하신분
+▣ 쉘 스크립트 개발 가능하신분",https://www.rallit.com/positions/1426/%EA%B2%BD%EB%A0%A5%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%B0%B1%EC%97%94%EB%93%9C,"▣ 경력 7년~15년 개발자
+▣ Java 언어 사용 가능하신분
+▣ 스프링 프레임워크 사용 가능하신분
+▣ 데이터베이스에 대한 이해 / SQL 사용 가능하신 분
+▣ 신규 기술에 습득에 대해 두려움이 없으신 분",백엔드 개발자
+29,그로잉랩,,9,"['Node.js', 'MySQL', 'AWS', 'Github']","- 다양한 환경에서 개발하신 경험이 있으신 분
+- 서비스 인프라 설계 및 관리를 수행하신 분
+- 팀 매니징 경험이 있으신 분
+- 금융 또는 기업데이터를 활용한 프로젝트 경험이 있으신 분
+- Machine Learning을 활용한 데이터 처리 경험이 있으신 분",https://www.rallit.com/positions/1368/%EB%B0%B1%EC%97%94%EB%93%9C-%EC%8B%9C%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90,"- 웹서비스 개발을 7년이상 경험하신 분
+- AWS 등의 클라우드 기반 서비스를 개발하고 운영한 경험이 있으신 분
+- 웹 서비스의 설계/개발/성능 최적화를 경험이 있으신 분
+- 빌드, 테스트, 배포 자동화 경험이 있으신 분",백엔드 시니어 개발자
+30,라텔앤드파트너즈,서울특별시 중구,1,"['Python', 'Spring Boot', 'AWS', 'Git', 'iOS', 'HTML/CSS']","• 데이터베이스 인덱스에 대한 이해
+• 데이터베이스 성능 분석 및 튜닝에 대한 경험
+• DB 서버 구축 및 운영",https://www.rallit.com/positions/1933/dba-%EC%A3%BC%EB%8B%88%EC%96%B4,"• MSSQL 사용 경력
+• 2년 이상의 DBA 경험",데이터 베이스 관리자
+31,브랜디,서울특별시 성동구,4,"['AWS', 'Python', 'bash', 'Terraform', 'infrastructure', 'helm']","- 클라우드 기반 대규모 서비스 구축/운영 과정에서 발생하는 문제를 구조적으로 해결해본 경험이 있는 분
+- Terraform, Helm, Packer 등 다양한 도구를 활용해 인프라 구성을 자동화해본 경험이 있으신 분
+- 마이크로서비스 아키텍처 구성 및 운영 경험이 있으신 분
+- Kubernetes와 Istio를 활용하여 서비스를 운영이 가능하신 분
+- 빠른 문제해결 능력으로 서비스 안정적으로 운영한 경험이 있는 분",https://www.rallit.com/positions/2038/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-devops-engineer,"- 4년 이상의 퍼블릭 클라우드 설계, 구축, 운영 경험을 보유하신 분
+- Infrastructure as Code를 이해하고 구현할 수 있는 분 (Terraform, Packer, Helm)
+- 스크립트 작성 또는 코딩 기술을 보유한 분 (Python, Bash 등) 컨테이너 및 컨테이너 오케스트레이션 환경에 대한 이해가 있으신 분
+- GitOps, AWS Code Series, ArgoCD등 개발-빌드-배포 파이프라인과 관련된 다양한 도구들의 구성 및 활용 경험이 있으신 분
+- 리눅스, 데이터베이스, 스토리지, 분산 시스템, 네트워크 등 인프라 환경 구성 요소들에 대한 기본적인 이해가 있으신 분
+- 장애 발생 시, 장애 대응 및 재발 방지를 위한 다양한 경험을 가지신 분
+- 반복적인 업무의 자동화 및 효율적인 운영환경을 구축하여 불필요한 리소스를 절감한 경험이 있으신 분",데브옵스 엔지니어
+32,바이브존,서울특별시 강남구,4,"['TypeScript', 'Git', 'JavaScript', 'AWS']","• Tizen TV app 개발 경험자 (Web or .NET Framework)
+• 미디어 서비스 개발 경험자 우대 (VOD, Live Streaming)
+• 미디어 스트리밍 시스템 개발 경험자 우대
+• RTP / RTSP / HLS / MPEG-DASH 등의 스트리밍 프로토콜 개발 경험
+• Unit Test 및 CI/CD에 대한 경험자
+• Git 사용한 협업이 가능하고 Code review에 적극적으로 참여
+• 글로벌 팬덤 플랫폼 앱 서비스를 개발 및 운영하고 싶으신 분",https://www.rallit.com/positions/2310/%EB%AF%B8%EB%94%94%EC%96%B4-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C,"• 미디어 서비스 모바일 또는 TV app 개발 경험자
+• 프론트엔드 기술 전반에 걸친 이해가 높으신 분
+• React, JavaScript/TypeScript, JavaScript Style 능숙자",미디어 서버 개발자
+33,하이프로토콜,서울특별시 성동구,4,"['TypeScript', 'Express', 'DBMS/RDBMS', 'PostgreSQL', 'AWS', 'aws-serverless', 'Redis', 'websockets']","이런 분이면 더 좋아요
+
+AWS Lambda 서버리스 컴퓨팅 서비스를 사용해 서비스를 운영한 경험이 있으신 분
+
+Redis 또는 Memcached와 같은 인메모리 데이터베이스를 통한 성능 개선 경험이 있으신 분
+
+유닛 테스트, 통합 테스트 코드 작성 경험이 있으신 분
+
+WebSocket을 통한 실시간 서비스 구축 경험이 있으신 분
+
+코드 리뷰 등을 통해 개발 문화를 개선해나가고 싶으신 분
+
+자유롭게 의견이나 피드백을 주고받는 등 커뮤니케이션이 원활하신 분",https://www.rallit.com/positions/2047/web3-%ED%81%AC%EB%A1%9C%EC%8A%A4%EC%B2%B4%EC%9D%B8-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%8B%9C%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9,"이런 분과 함께 하고 싶어요
+
+Typescript를 사용한 Express 프레임워크 기반 백엔드 개발 경험이 있으신 분
+
+RDBMS에 대한 이해도가 준수하고 PostgreSQL 사용 경험이 있으신 분
+
+AWS를 통한 인프라 및 CI/CD 프로세스를 구축한 경험이 있는 분
+
+블록체인 분야에 관심이 많고 스마트 컨트랙트를 연결해본 경험이 있는 분", 크로스체인 프로토콜 백엔드 시니어 개발자
+34,21세기전파상,서울특별시 서초구,4,"['Git', 'Github', 'MySQL', 'SQL', 'React', 'React Native', 'JavaScript', 'Node.js', 'AWS']","• 소프트웨어 설계에 대해 이해가 깊은 분.
+• 실제 제품을 초기부터 개발, 배포, 업데이트한 경험이 있으신 분.
+• React Native 기반 앱 개발 경험이 있으신 분.",https://www.rallit.com/positions/676/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90,"• 3년 ~ 7년의 React.js 웹 또는 React Native 앱 개발 경험이 있으신 분.
+• TypeScript에 대한 지식, 또는 이를 활용한 개발에 관심이 있으신 분
+• javascript(ES6 이상), CSS, HTML 능숙하신 분
+• Redux, Recoil, React-query 등 상태관리 경험이 있으신 분
+• styled-components 사용 및 디자이너와의 협업 경험이 있으신 분
+• RESTful API를 활용한 개발 경험이 있으신 분
+• 테스트 및 배포 자동화에 대한 경험이 있으신 분
+• 새로운 기술을 빠르게 배우고 이를 구성원들과 공유하는 것에 적극적이신 분
+• 여러 이해관계자들과의 협업 과정에서 논리적으로 커뮤니케이션 하시는 분",총괄 개발자
+35,와탭랩스,서울특별시 서초구,4,"['AWS', 'Shell Script', 'Java', 'Kubernetes']","• MSA 서비스 구축 및 운영 경험
+• 오픈소스 모니터링 구축 경험
+• ISMS, ISO 27001, CSAP 등 보안 인증 경험
+• 주요 오픈소스 프로젝트 Committer 및 기여자
+• B2B SaaS 업무 경험자",https://www.rallit.com/positions/1305/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-devops-engineer,"필수 자격요건 (경력: 7~12년)
+• Shell, Python 등 하나 이상 스크립트 언어 활용 가능자
+• 원활한 커뮤니케이션 능력   
+
+추가 자격요건 중 셋 이상 충족해야 합니다. 
+
+• 무중단 대용량 서비스 운영 경험자
+• CI/CD 숙련자
+• 자동화 도구 개발 경험자 또는 숙련자
+• 클라우드 보안업무 경험 
+• Observability 개발 또는 기술지원 경험 
+• Java 애플리케이션 개발 경험",솔루션 엔지니어/IT 성능 컨설턴트
+36,스테이지랩스,서울특별시 중구,4,"['Node.js', 'TypeScript', 'AWS', 'Git', 'GitHub']","아래에 해당되시는 분이면 더더욱 좋아요
+
+ • AWS Lambda 기반 서버리스 아키텍처 개발 경험이 있으신 분
+ • SQS / Kafka 등 비동기 메시지 기반 개발 경험이 있으신 분
+ • MSA 기반 설계/개발 경험이 있으신 분
+ • 대용량 트래픽 서비스 개발 및 운영 경험이 있으신 분
+ • 새로운 기술 습득과 지식 공유에 즐거움을 느끼시는 분
+ • 코드 개선 및 코드 리뷰에 적극 참여하시는 분",https://www.rallit.com/positions/2163/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90,"우리는 이런분과 함께 하고 싶어요
+
+ • NodeJS 기반 백엔드 서버 개발 경험이  있으신 분
+ • Javascript(ES6+) 또는 Typescript 개발 경험이 있으신 분
+ • MVC framework 기반의 웹 서비스나 API 개발 경험이 있으신 분
+ • MySQL/PostgreSQL 등의 RDBMS 또는 DynamoDB/MongoDB 등의 NoSQL 경험이 있으신 분
+ • Git / GitHub 등의 버전관리시스템 경험이 있으신 분",백엔드 개발자
+37,디랙스,,0,"['Java', 'Spring', 'MySQL', 'AWS', 'Android', 'iOS', 'JSP']","우대사항
+
+ㆍ전공 : 컴퓨터공학/AI 관련, 수학, 통계학
+
+ㆍ솔루션 개발경험,  시스템 운영/유지보수 경험",https://www.rallit.com/positions/1776/aws-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%AA%A8%EC%A7%91,"스킬
+
+ㆍAndroid, iOS, JAVA, JSP, MySQL, Spring Framework ( 개발자 )
+
+자격요건
+
+ㆍ학력 : 초대졸이상
+
+ㆍ경력 : 신입·경력",AWS 소프트웨어 개발자
+38,빅웨이브로보틱스,서울특별시 강남구,4,"['AWS', 'devops', 'React', 'Firebase', 'GitHub', 'SQL', 'Redis', 'Flutter', 'Git', 'JUnit']","• 컴퓨터공학 전공 혹은 그에 준하는 전공 및 지식을 보유하신 분
+• Flutter 앱 개발 경험이 있으신 분
+• Server Side Rendering, REDIS 등 백엔드 개발 경험이 있으신 분
+• TypeScript와 같은 JS 정적 타이핑 언어 경험이 있으신 분
+• Jotai, Recoil 등 전역 상태관리 패턴을 사용한 경험이 있으신 분
+• 새로운 기술에 대한 도전과 경험을 공유하고 함께 성장하는 것을 즐기시는 분
+• 오픈소스 기반 웹, API 형태의 개발 경험이 충분히 있으신 분
+• MSA 기반 시스템 개발 경험",https://www.rallit.com/positions/2052/%EB%A1%9C%EB%B4%87-%ED%86%B5%ED%95%A9-%EA%B4%80%EC%A0%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-5%EB%85%84-%EC%9D%B4%EC%83%81,"• 웹 프론트엔드 개발 경험 5년 이상 또는 이에 준하는 실력을 가지고 계신 분
+• React 등 SPA 기반 프레임워크를 이용해 프로젝트를 진행한 경험이 있으신 분
+• FireBase 프로젝트 수행 이력 보유 또는 활용 가능하신 분
+• 개발 참여 Reference 및 포트폴리오 제출 필수",백엔드 개발자
+39,씨드앤,,1,"['MySQL', 'Docker', 'AWS', 'Lambda', 'Ansible', 'Elasticsearch']","- 클라우드 서비스 (AWS, AZURE) 시스템 운영 경험
+- CI/CD 구축 및 운영 경험
+- EKS/AKS/GKE 등의 쿠버네티스 클라우드 서비스 경험
+- MySQL, Redis, Elasticsearch 운영경험
+- Nginx, HAProxy 운영경험
+- 기본적인 개발 언어 이해 및 경험 (Python, Java, Javascript 등)
+- 모니터링, 로깅 파이프라인 구축 및 운영 경험
+- Terraform, Ansible, helm 등을 활용한 IaC 경험
+- 새로운 기술에 대한 거부감이 없는 자세",https://www.rallit.com/positions/2059/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4-devops-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-1%EB%85%84-%EC%9D%B4%EC%83%81,"- 1년 이상의 데브옵스, 인프라 관련 경력
+- Ubuntu, alpine 리눅스, 네트워크에 대한 심층적인 이해
+- Shell 스크립트, Python 사용 가능",데브옵스 엔지니어
+40,롯데헬스케어,서울특별시 송파구,0,"['JavaScript', 'Kotlin', 'Spring Boot', 'Spring Batch', 'AWS', 'Kubernetes', 'TypeScript', 'Go', 'Python', 'Azure']","• JavaScript, TypeScript, Golang, Python 경험자
+• Azure, GCP 사용 경험자
+• 검색서비스 개발 경험자
+• Cassandra, HBase, MongoDB 사용 경험자
+• Kafka와 RabbitMQ 등 MQ 사용 경험자
+• Terraform, Helm 사용 경험자
+• Web Frontend, Native Client, DevOps 경력 보유자
+• 외부 협력사와 협업 경험 보유자
+• 레거시 시스템 재설계, 재개발 경험자
+• 대규모 트래픽, 대용량 데이터 처리에 대한 경험자
+• 오픈소스 개발/기여 경험자",https://www.rallit.com/positions/1639/%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4,"• 1년 이상의 서비스 개발 및 운영 경험자
+• 본인이 사용한 기술과 환경에 대한 깊은 이해 보유자
+• Kotlin, Spring Boot 를 활용한 Backend Application 개발 경험자
+• Spring Data, Spring Batch 사용 경험자
+• AWS 의 다양한 Service 사용 경험자
+• Kubernetes 환경에서 개발, 운영 경험자
+• Infra, Application 장애 대응 경험자
+• 부하 테스트, 어플리케이션 & 쿼리 튜닝 경험자
+• 요구사항의 정의와 시스템의 안정성을 위해 의미 있는 테스트 코드를 작성하는 분
+• 검색과 기록에서 멈추지 않고 구현과 실험으로 지식을 습득하는 분
+• 목표를 달성하는 전략을 다양하게 고민하고 실패를 대비하는 분
+• 개발 환경과 조직문화의 발전에 기여한 경험이 있는 분
+• 반복되는 작업을 자동화 하는 분
+• 기술 스택 선정에 합리적인 기준을 두고 조직의 상황에 맞게 선택하는 분",
+41,21세기전파상,서울특별시 서초구,9,"['Git', 'Github', 'AWS', 'MySQL', 'SQL', 'React', 'React Native', 'JavaScript', 'Node.js']","• 백엔드 실무 경험 3년 이상
+• 로드 밸런싱 및 서버 부하 조절 경험이 있으신 분
+• 커머스 또는 O2O 개발 경험이 있으신 분
+• 풀스택 개발이 가능하신 분
+• 초기 스타트업에서 주도적인 역할을 담당하였거나 창업 경험이 있으신 분",https://www.rallit.com/positions/678/%EC%8B%9C%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90,"• Git 사용 및 전반적인 소스 CI/CD 경험자
+• Node.js express Nest.js Framework 개발 경험이 있으신 분 
+• RESTful API구축 및 설계 경험이 있으신 분
+• 외부 rest api 연동 및 Oauth2 기본 개념을 가지고 있으신 분 
+• CentOS 및 클라우드 컴퓨팅 서버(AWS, NCP)관련한 지식이 있으신 분",총괄 개발자
+42,인텔렉투스,서울특별시 서초구,0,"['TypeScript', '아키텍처', 'serverside-javascript', '빅데이터', '데이터 엔지니어링', 'database', 'DBMS/RDBMS', 'AWS', 'Google Cloud Platform', 'aws-serverless']","- 3+년 데이터 분석 관련 프로젝트 경험이 있으신 분
+- Data Warehouse 및 Data Lake에 대한 실무 경험이 있으신 분
+- 일정 규모 이상의 Production 환경 소프트웨어 시스템의 데이터 ETL 구축 및 운영 경험이 있으신 분
+- SRE(Site Reliability Engineering) 관련 경험이나 이해가 있으신 분
+- 검색 엔진 개발 혹은 최적화에 대한 실무 경험이 있으신 분
+- AWS and/or GCP, Azure 의 데이터 분석 서비스에 대한 실무 경험이 있으신 분
+- 외국어로 업무 진행이 가능한 분(영어)",https://www.rallit.com/positions/2036/backend-api-sw-engineer,"- 1+년 Data Platform 개발 또는 Data Engineering 관련 프로젝트 경험이 있으신 분
+- 실무에서 사용 가능한 프로그래밍(API 개발) 기술을 보유하신 분 (JAVA, Python, Typescript 등)
+- 웹 환경에서 MVP 수준의 웹 클라이언트부터 서버 API 까지 개발이 가능하신 분
+- 클라우드 네이티브 어플리케이션 개발 및 테스트 주도 개발 방법론에 대한 이해와 도전 의지가 있으신 분
+- 해외 출장 및 근무에 결격 사유 없으신 분",백엔드 엔지니어
+43,21세기전파상,서울특별시 서초구,9,"['Git', 'Github', 'AWS', 'MySQL', 'SQL', 'JavaScript', 'React', 'React Native', 'Node.js']","• 프론트엔드는 next.js, react.js 사용중입니다
+• bootstrap 기반 자체 UI 가이드 개발이 가능하신분",https://www.rallit.com/positions/679/%EA%B0%9C%EB%B0%9C-%EC%B4%9D%EA%B4%84-cto,"• 개발조직 리드 경험자
+• 좋은 개발문화를 만드는데 관심이 많으신 분
+• 주니어 개발자 매니징
+• 풀스택 실무 경험 6년 이상
+• Git 사용 및 전반적인 소스 CI/CD 경험자
+• TDD 테스트 주도 개발 경험자
+• MySQL, Node.js express, Nest.js, Next.js, typescript 개발 경험자
+• RESTful API구축 및 설계 경험이 있으신 분
+• CentOS 및 클라우드 컴퓨팅 서버(AWS, NCP)관련한 지식이 있으신 분
+• 웹접근성/표준 및 DOM에 대한 이해도가 있는 분
+• 클린코드/코드리뷰 문화 적응 가능자",총괄 개발자
+44,코코네M,,9,"['AWS', 'Docker', 'CI/CD', 'Jenkins']","• DevOps/SRE 팀의 리딩 경험이 있는 분
+• 장애 예방과 탐지, 전파와 조치 등의 프로세스를 정립하고 개선한 경험이 있는 분
+• 인프라 및 미들웨어 연계 구간에 대한 깊은 이해와 구성 경험을 보유하신 분
+• 다양한 인프라 및 어플리케이션, 오픈소스에 대한 아키텍처 설계, 구축 경험이 있으신 분
+• Docker 및 Kubernetes, OpenShift 등 컨테이너 오케스트레이션 환경을 설계 및 구축한 경험이 있으신 분
+• IaC 구축 및 운영 경험이 있으신 분
+• 대규모 트래픽 처리를 위한 애플리케이션 인프라 구성 경험이 있으신 분
+• 복잡한 시스템에 대하여 디버깅 할 수 있는 능력을 보유하신 분
+
+[기술스택]
+
+• CentOS, Ubuntu, RockyLinux, windows 
+• AWS, GCP, NBP, On-premise
+• munin, zabbix, prometeus , grafana, Datadog, CloudWatch, ELK, Redash, BigQuery
+• MongoDB, MariaDB, Redis, ElasticSearch, CockroachDB
+• Jira, confluence, Slack 
+• bash, nodeJs, python
+• Docker, K8S, ECR
+• firebase, adjust, braze, google analytics",https://www.rallit.com/positions/1097/cocone-m-sre%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-site-reliability-engineering,"• AWS, GCP 와 같은 클라우드 서비스의 운영 경험이 있는 분
+• CI/CD 구축 및 운영 경험이 있는 분
+• 무중단 서비스의 고가용성 유지를 위한 서버 인프라 설계 및 모니터링 경험이 있는 분
+• 대용량 트래픽 서비스 운영 경험 및 트러블 슈팅 경험
+• IT 장애발생시 장애조치 리드 및 원인분석, 유관부서 커뮤니케이션 역량을 보유하신 분
+• 신규 또는 기존 서비스 성능테스트 및 분석, 개선 역할을 해본 경험",  SRE엔지니어
+45,유한회사일루미나리안,서울특별시 강남구,1,"['Java', 'Go', 'ORM', 'GitHub', 'MySQL', 'MariaDB', 'Spring Boot', 'AWS']","- 컴퓨터 관련 학위가 있으신 분이면 더 좋습니다.
+- 금융권 혹은 핀테크 프로젝트 개발 경험이 있으신 분이면 더 좋습니다.
+- Spring Boot (Java, Kotlin) 기반으로 서비스를 구축/운영한 경험이 있으신 분이면 더 좋습니다.
+- 결제 및 정산 관련 서비스의 개발 경험이 있으신 분이면 더 좋습니다.
+- AWS 환경에서의 개발 경험이 있으신 분이면 더 좋습니다.
+- 대규모 트래픽 처리 및 고가용성 처리 개발 경험이 있으신 분이면 더 좋습니다.
+- 기본적인 자료구조/알고리즘에 대한 이해가 있으신 분이면 더 좋습니다.
+- Github 링크 및 포트폴리오 (블로그) 링크 또는 관련 문서 제출이 가능하신 분이면 더 좋습니다.
+- 개발지식 공유활동을 해본 경험(stackoverflow, 개인 블로그, 오프라인 컨퍼런스, git 등)이 있으신 분이면 더 좋습니다.
+- 개발에 참여한 제품에 대한 책임감이 있으신 분이면 더 좋습니다.
+- 높은 품질의 소프트웨어 개발을 위해 지속적인 고민과 노력이 있으셨던 분이면 더 좋습니다.
+- 비즈니스 수준의 영어 혹은 일본어가 가능하신 분이면 더 좋습니다.",https://www.rallit.com/positions/2282/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90,"- 1년 이상 또는 그에 준하는 백엔드 서비스 개발 및 운영 경험이 있으신 분
+- Java, Golang 등 최소한 하나 이상의 언어를 사용하여 개발에 참여했던 경험이 있으시거나 해당 언어에 관심을 가지고 공부하시는 분
+- ORM, 인증, Restful API 등 인터넷 서비스 개발 경험이 있으신 분
+- MySQL 또는 Maria 등의 DB 사용경험이 있으신 분
+- 여러 직무의 팀원들과 원활하게 대화할 수 있는 의사소통 능력을 가지신 분
+- 담당하고 있는 개발 프로젝트에 대해 다른 팀원들이 이해할 수 있도록 설명하는 능력을 가지신 분",백엔드 개발자
+46,넵튠클라우드,서울특별시 강남구,4,"['Spring', 'Node.js', 'Google Cloud Platform', 'AWS']","- Spring 활용 경험
+- 데스크탑, 모바일, 웹 어플리케이션 개발 경험
+- GraphQL 활용 경험
+- CI/CD 구축, 운영 경험
+- Event Driven Architecture 이해 (Kafka, RabbitMQ 등 활용 경험 )",https://www.rallit.com/positions/655/backend-developer,"- 백엔드 개발 경력 3년 이상 (node.js, Java, C# 등)
+- RESTful API 설계 및 개발 경험
+- NoSQL(ex.MongoDB, DynamoDB etc) 활용 경험
+- Cloud 서비스 이용 경험 (GCP, AWS, Azure 등)",백엔드 개발자
+47,픽소,,4,"['Node.js', 'TypeScript', 'Webpack', 'AWS', 'Lambda', 'dynamodb', 'GitHub', 'Slack', 'Notion']","- IT 스타트업에서 테크 리드 혹은 프로젝트 리딩의 경험이 있으신 분
+- 프로덕트 개발 full cycle에 대한 깊은 이해와 경험이 있으신분
+- 글로벌 서비스를 위한 인프라 아키텍처 설계, 개발 경험이 있으신 분
+- 아키텍쳐 변경에 따른 마이그레이션 경험이 있으신 분
+- Java/Kotlin, Spring Boot에 대한 이해와 프로젝트 수행 경험을 가지신 분
+- AWS 혹은 기타 클라우드 환경을 활용한 개발/운영 경험이 있으신 분",https://www.rallit.com/positions/2279/%EB%B0%B1%EC%97%94%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-5%EB%85%84-%EC%9D%B4%EC%83%81,"- 픽소의 미션과 비전을 이해하고, 공감하실 수 있는 분
+- node.js 기반의 백엔드 직무 경험이 5년 이상 이신 분
+- typescript, Kotlin/Spring 개발 경험이 있으신 분
+- MSA 아키텍처 개발 경험이 있으신 분
+- CMS(Content Management System) 연동 개발 경험이 있으신 분
+- 난이도 높은 문제를 최적의 솔루션으로 해결하시는 것을 즐기시는 분
+- 다양한 직군의 팀원들과 원활한 커뮤니케이션과 협업이 가능하신 분
+- 개인의 성과보다 팀의 성과에 더 가치를 두시는 분
+- 글로벌 서비스 성공 경험을 주도적으로 만들어 가길 원하시는 분",백엔드 엔지니어
+48,인프랩,경기도 성남시 분당구,0,"['Node.js', 'PostgreSQL', 'JavaScript', 'AWS']","- TypeScript, Java, Kotlin 등 강타입 (Strongly Typed) 언어를 이해하고 있으신 분
+- Jest, Mocha, Junit 등 테스트 프레임워크를 통해 테스트 코드를 작성해오신 분
+- OOP에 대한 기본적인 이해도가 있으신 분 (객체의 역할 / 책임 / 협력, 메세지 등)
+- NestJS, Spring MVC와 같은 MVC Framework를 사용해본 경험이 있으신 분
+- 레이어드 아키텍처 (Layered Architecture) 가 왜 필요한지 이해하고, 적용해서 개발하고 계신 분
+- 언어/프레임워크에 관계 없이 DI (Dependency Injection) 패턴을 사용하고 있고, 왜 필요한지 알고 계신 분
+- TypeORM, Prisma, MikroORM 등 Type이 있는 ORM 을 사용해본 경험이 있으신 분
+- MySQL 혹은 PostgreSQL 과 같은 RDBMS 의 실행계획을 통해 인덱스 튜닝 / 쿼리 튜닝등을 진행해본 경험이 있으신 분
+- AWS 인프라 위에 1개 이상의 애플리케이션을 배포하고 실행해본 경험이 있으신 분",https://www.rallit.com/positions/2246/%EC%9D%B8%ED%84%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-node-js,"아래 개발팀의 미션과 가치에 동의하시는 분이어야 합니다.
+https://tech.inflab.com/20231117-devteam-value/
+
+- 계약기간 (약 6개월) 동안 full-time 근무 가능하신 분
+- Node.js 기반의 백엔드 개발 경험이 있으신 분
+- JavaScript 에 대한 이해가 있으신 분
+- Linux의 기본적인 명령어들을 사용할 수 있고, EC2에 기본적인 패키지들을 설치하고 Node 애플리케이션을 실행할 수 있으신 분
+- HTTP 통신에 대한 기본적인 이해, RESTful API에 대한 설계나 개발 경험이 있으신 분
+- Function, Class, Instance, Object Literal 에 대해 기본적인 내용을 알고 있고, 상황에 따라 적절하게 사용하고 계신 분
+- 기본적인 SQL 문법, JOIN, Subquery 등을 활용할 줄 아시는 분
+- RDBMS의 인덱스가 무엇인지 알고 있고, 어떤 경우 인덱스가 사용이 안 되는지 알고 계신 분
+- Git과 Github에 대한 기본적인 사용법을 알고 있고, 기본적인 Git의 브랜치 전략들을 사용하는 데 무리가 없으신 분", 백엔드 개발자
+49,피클플러스,서울특별시 중구,1,"['TypeScript', 'React', 'Next.js', 'JavaScript', 'httpx', 'REST API', 'Git', 'AWS', 'ssr']","• 성능 최적화와 테스트코드 작성 경험
+• 코드리뷰를 통한 협업 경험
+• 단위 테스트 및 UI 테스트 경험
+• SSR, 웹뷰 개발 경험
+• 글로벌 플랫폼 개발 및 국제화 경험
+• AWS를 이용한 배포와 운영 경험",https://www.rallit.com/positions/2176/%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4,"• 웹 프론트엔드 개발 업무 경력 2년 이상 혹은 유사한 경험이 있으신 분
+• 한 가지 이상의 JavaScript 프레임워크 사용 경험이 있으신 분 (React 혹은 Vue)
+• HTTP 통신에 대한 기본적인 이해와 REST API 클라이언트 개발 경험이 있으신 분
+• Git 버전관리 시스템에 대한 이해와 사용 경험이 있으신 분
+• 타 직군과의 협업 및 커뮤니케이션이 원활한 분",백엔드 엔지니어
+50,픽소,,1,"['Node.js', 'TypeScript', 'Webpack', 'AWS', 'Lambda', 'dynamodb', 'GitHub', 'Slack', 'Notion']","- 프로덕트 개발 full cycle에 대한 깊은 이해와 경험이 있으신 분
+- 아키텍쳐 변경에 따른 마이그레이션 경험이 있으신 분
+- AWS 혹은 기타 클라우드 환경을 활용한 개발/운영 경험이 있으신 분
+- 글로벌 서비스를 위한 인프라 아키텍처 설계, 개발 경험이 있으신 분",https://www.rallit.com/positions/2280/%EB%B0%B1%EC%97%94%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-3%EB%85%84-%EC%9D%B4%EC%83%81,"- 픽소의 미션과 비전을 이해하고, 공감하실 수 있는 분
+- node.js 기반의 백엔드 직무 경험이 3년 이상 이신 분
+- typescript, Kotlin/Spring 및 MSA 아키텍처 개발 경험이 있으신 분
+- CMS(Content Management System) 연동 개발 경험이 있으신 분
+- 다양한 직군의 팀원들과 원활한 커뮤니케이션과 협업이 가능하신 분",백엔드 엔지니어
+51,스팬딧,서울특별시 성동구,9,"['Ruby on Rails', 'Java', 'Spring Boot', 'AWS', 'JPA', 'Github', 'MySQL', 'PostgreSQL', 'Ruby']","• 대규모 서비스의 설계, 개발 및 유지보수 경험이 있으신 분
+• 테스트 자동화 또는 TDD 경험이 있으신 분
+• Ruby on Rails를 이용한 서비스 개발 경험이 있으신 분
+• 이종간 프로그램언어로 작성된 서비스를 개발하거나 운영해본 경험이 있으신 분
+• CI & CD 를 구축하거나 운영해본 경험이 있으신 분
+• IT 스타트업 경험이 있으신 분",https://www.rallit.com/positions/288/%EC%8B%9C%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90,"• 백엔드 개발 경력 7년 이상 또는 그에 준하는 실력을 갖추신 분
+• 소프트웨어 아키텍처 또는 서비스 인프라 설계 가능하신 분
+• 주도적으로 AWS 환경에서 개발 및 운영 경험이 있으신 분
+• 웹서비스 API에 대한 이해가 있으신 분
+• (언어 무관) 서버 사이드 Framework에 대한 깊이 있는 이해가 있으신 분
+• RDBMS 설계 및 운영 경험이 있으신 분",시니어 백엔드 개발자
+52,바텍,,0,"['DevOps', 'Kubernetes', 'Kafka', 'Elasticsearch', 'Jenkins', 'Github', 'Docker', 'AWS']","1) Docker 활용 경험 4년 이상
+2) AWS 활용 경험 보유",https://www.rallit.com/positions/215/devops-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%AA%A8%EC%A7%91-%EC%9E%AC%ED%83%9D%EA%B7%BC%EB%AC%B4-%ED%8C%90%EA%B5%90-%EC%98%A4%ED%94%BC%EC%8A%A4-%EA%B7%BC%EB%AC%B4-%EA%B0%80%EB%8A%A5,"1) 학력 : 학사 이상
+2) 전공 : 컴퓨터 공학 계열
+3) 경력 : 무관",데브옵스 개발자
+53,스플랩,서울특별시 강남구,1,"['Java', 'Kotlin', 'Spring Boot', 'JPA', 'JUnit', 'AWS', 'MySQL', 'MongoDB', 'Redis', 'GitHub']","이런 분은 더욱 환영해요!
+- Kotlin 언어에 대한 이해와 Spring/JPA에서 사용방법을 이해하고 개발을 경험하신 분
+- 좋은 아키텍처와 간결한 코드에 관심이 있고 끊임없이 고민하는 분
+- 업무 로직을 도메인 오브젝트 모델로 작성하고 검증하는 개발 방법에 경험이 있으신 분
+- 프로덕트와 비스니스 관점에서 고객 지향적으로 생각하며 개발하는 분
+- 다양한 포지션의 동료들과 협업하여 공동의 목표를 달성하는 과정을 즐기는 분
+- 비즈니스에 대한 이해를 기반으로 기획을 포함한 개발 전과정에 참여 의지가 있는 분
+
+프로덕트 팀은 이렇게 일합니다
+- 1주일 단위로 스프린트를 진행합니다. 스프린트 시작을 위한 회의를 하고 스프린트가 끝날 때 회고를 통하여 발전하고 있습니다.
+- 효율적인 업무를 위해 이슈 관리는 지라(Jira), 커뮤니케이션은 슬랙(Slack), 문서 관리는 노션(Notion)과 컨플루언스(Confluence)를 사용하여 업무의 효율성을 향상시키고 있습니다.
+- 좋은 코드를 유지하기 위하여 코드를 리뷰하고 CI/CD를 활용하여 테스트부터 배포까지 자동화 합니다.",https://www.rallit.com/positions/2297/backend-developer,"이런 분을 찾습니다!
+- 2년 이상 또는 그에 준하는 Java/Spring 기반 백엔드 서비스 개발 및 유지 관리 경험을 가지신 분
+- SpringMVC와 서버사이드 렌더링 뷰 기술(Thymeleaf등)을 이용한 웹 애플리케이션 개발 경험이 있으신 분
+- HTML/CSS 및 자바스크립트 라이브러리를 활용해서 웹 페이지 작성해본 경험이 있으신 분
+- 단위 테스트 코드를 작성해서 코드를 검증하는 경험이 있으신 분
+- 서비스형 소프트웨어(SaaS)에 대한 이해도가 있는 분
+- RDBMS, NoSQL에 대한 이해도가 있으신 분
+- 단순히 주어진 문제를 해결하는 것이 아닌, 주도적으로 문제를 발견하고 분석해서 솔루션을 제안할 수 있으신 분",백엔드 개발자
+54,스팬딧,서울특별시 성동구,4,"['Ruby on Rails', 'Ruby', 'Java', 'Spring Boot', 'AWS', 'JPA', 'Github', 'MySQL', 'PostgreSQL']","• 대규모 서비스의 설계, 개발 및 유지보수 경험이 있으신 분
+• AWS 기반 서비스 운영 경험이 1년 이상 있으신 분
+• Ruby on Rails를 이용한 서비스 개발 경험이 있으신 분
+• 다양한 팀과 협업하여 웹서비스를 운영해본 경험이 있으신 분
+• IT 스타트업 경험이 있으신 분",https://www.rallit.com/positions/293/%EB%B0%B1%EC%97%94%EB%93%9C%EA%B0%9C%EB%B0%9C%EC%9E%90,"• 백엔드 개발 경력 3년 이상 또는 그에 준하는 실력을 갖추신 분
+• 서버 사이드 프로그래밍 언어 및 Framework 사용 경험이 있으신 분
+• MySQL(Maria DB), PostgreSQL 등 RDBMS 경험이 있으신 분
+• Restful API로 서비스를 개발해 본 경험이 있으신 분
+• 알고리즘, 자료구조, 운영체제 등에 대한 이해가 있으신 분
+• 영어로 작성된 개발문서, 레퍼런스 등을 읽는데 어려움이 없으신 분
+• 항상 기술적으로 더 나은 것을 추구하고 계속 성장하고자 하는 분",시니어 백엔드 개발자
+55,써머스플랫폼,서울특별시 금천구,4,"['AWS', 'Linux']","• H/W, S/W 보안관리 경험자 우대
+• 개인정보보호 보안관리 경험자 우대
+• 동료와의 커뮤니케이션 협업이 즐거우신분",https://www.rallit.com/positions/1549/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%83%9D%EB%B0%B0-%EC%8A%A4%EC%9C%97%ED%8A%B8%EB%9E%98%EC%BB%A4cic-%EC%9D%B8%ED%94%84%EB%9D%BC-%EB%8B%B4%EB%8B%B9-%EC%B1%84%EC%9A%A9,"• 학력 : 학력무관
+• 경력 : 2년~ 8년
+• 보안장비 운영 경험자
+• Cloud 서비스 운영 경험자
+• 리눅스 운영 경험자", 스윗트래커CIC_인프라 담당자
+56,피클플러스,서울특별시 중구,1,"['Django', 'MySQL', 'AWS', 'PostgreSQL', 'Git', 'httpx', 'Redis', 'MongoDB']","• AWS의 ECS, EKS를 이용한 배포 및 운영 경험
+• Redis, MongoDB를 이용한 개발과 사용 경험
+• 빌드, 테스트, 배포 자동화 구축 경험
+• 모니터링 시스템을 이용한 장애 탐지와 해결 경험
+• 글로벌 플랫폼 개발 및 국제화 경험",https://www.rallit.com/positions/2175/%EB%B0%B1%EC%97%94%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-python,"• Django 기반의 실무 백엔드 개발 경험이 있으신 분
+• MySQL, PostgreSQL 등의 RDBMS 사용과 설계 경험이 있으신 분
+• HTTP 통신에 대한 기본적인 이해와 RESTful API 개발 경험이 있으신 분
+• Git 버전관리 시스템에 대한 이해와 사용 경험이 있으신 분
+• 타 직군과의 협업 및 커뮤니케이션이 원활한 분",백엔드 엔지니어
+57,런치팩,서울특별시 강남구,1,"['Vue.js', 'AWS', '플랫폼 비즈니스']","이런 관심/경험은 마음껏 어필해 주세요!
+- 웹 기반 UI Editor 개발 경험
+- Vue.js 프로젝트 실무 개발 경력 1년 이상
+- Django, Node.js 등 백엔드 개발 경험
+- AWS 인프라 구축 경험
+- UI/UX에 대한 관심
+- 플랫폼 서비스를 개발/운영해 본 경험
+- 프론트엔드 프로젝트 체계화에 대한 관심",https://www.rallit.com/positions/1222/%EB%9F%B0%EC%B9%98%ED%8C%A9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%A3%BC%EB%8B%88%EC%96%B4,"이런 분이 필요합니다.
+- 프론트엔드 개발 경력 1년 이상 보유하고 계신 분
+- 대학교 졸업(4년) 이상의 학력이 있으신 분
+- 상용 서비스 개발/운영 경험이 있으신 분
+- Vue.js 프로젝트 개발 경험이 있으신 분
+- 반응형 웹 개발 경험이 있으신 분
+
+저희와 핏이 잘 맞을 수 있는 분들의 유형이에요.
+- 개발자 없이 웹서비스 구현이 가능한 세상에 기여하고 싶으신 분
+- 스타트업 창업에 관심이 높거나, 실제로 창업을 시도하고 초기 허들을 경험한 분
+- 팀원들과 함께 소통하며 문제를 해결해 나갈 수 있으신 분
+- 문제를 인식하고 해결하는 데 있어 주도적으로 일하는 것을 편하게 느끼시는 분", 프론트엔드 개발자
+58,바티AI,서울특별시 강남구,4,"['Java', 'JavaScript', 'REST API', 'MSA', '도메인', 'RPA', 'NLP', 'Python', 'React', 'AWS']","[성향]
+ㆍ끊임없는 연구와 신기술에 대한 욕구가 강한 분
+ㆍ기억보다는 기록을 좋아하시는 분
+ㆍ업무 효율화 또는 자동화에 대한 관심이 있으신 분
+ㆍ구성원과 협업을 좋아하고 서로 간의 도움을 주실 수 있는 분
+ㆍ긍정적인 업무 태도와 마인드
+
+[기술과 경험]
+ㆍ스타트업 근무 경험자
+ㆍB2B SaaS 서비스 또는 RPA 자동화 관련 경험이 있으신 분
+ㆍMSA (MicroService Architecture), Event / Domain Driven Architecture 경험 및 지식
+ㆍ데이터베이스 모델링 가능하신 분
+ㆍ실시간 대규모 트래픽, 대용량 데이터 처리 경험자
+ㆍAWS 등 클라우드 기반 서비스 인프라 설계 및 관리를 수행한 경험이 있으신 분
+ㆍ자연어처리, 텍스트마이닝, 인공지능에 대한 경험이 있으신 분
+ㆍNginx, Apache, Varnish, Redis, RabbitMQ, Kafka 등 다양한 오픈 소스 플랫폼 경험이 있으신 분
+ㆍNext.js 프레임워크 경험이 있으신 분",https://www.rallit.com/positions/1485/%EC%9E%90%EB%8F%99%ED%99%94-%EB%85%B8%EC%BD%94%EB%93%9C-%ED%88%B4-java-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B2%BD%EB%A0%A5,"ㆍ5년 이상 Java(Spring framework) 개발 경험자 (혹은 그에 준하는 실력을 갖추신 분)
+ㆍRESTful API에 대한 개발 경험이 있으신 분
+ㆍ새로운 것을 배우고 습득하는데 두려움이 없는 분",자동화 노코드 툴 JAVA 백엔드 개발자
+59,지나인,,4,"['PHP', 'Wordpress', 'AWS', 'DBMS/RDBMS']","- Docker기반 서비스 개발 경험
+- 로그 시스템을 이용한 에러 감지 및 트러블 슈팅 경험
+- 코드 리뷰, 개발 블로그 등 함께 성장하는 문화를 중요하게 생각하시는 분",https://www.rallit.com/positions/1132/ttmik-backend-%EA%B0%9C%EB%B0%9C%EC%9E%90,"- 3년 이상 혹은 그에 준하는 백엔드 서비스 개발 및 운영 경험
+- AWS 및 퍼블릭 클라우드 서비스 사용/운영 경험
+- RDBMS 상에서 스키마 설계 및 서버 운영 경험
+- 하나 이상의 백엔드 언어에 대한 기본적인 이해 
+
+------------------------------------------------------------
+지원 서류
+- 이력서
+- 포트폴리오 또는 경력기술서
+- 깃허브 링크, 링크드인 프로파일 (선택)",백엔드 개발자
+60,레인포컴퍼니,,4,"['React', 'Next.js', 'React Native', 'Redux', 'JavaScript', 'TypeScript', 'AWS']","**우대사항은 그저 우대사항일 뿐입니다.**
+
+- TypeScript 경험이 있으시면 더욱 좋습니다.
+- 유지보수성 및 확장성을 고려한 코드 구현 경험
+- 테스트 코드 작성 경험이 있으신 분
+- 문서화를 습관처럼 하시는 분",https://www.rallit.com/positions/1357/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90,"- React 혹은 React Native 개발 및 운영 경험이 2년 이상이거나 그에 준하는 개발 경험이 있으신 분
+- HTML, CSS, JavaScript에 대한 깊은 이해가 있으신 분
+- Redux, MobX와 같은 상태 관리 라이브러리 사용 경험이 있으신 분
+- Git을 사용한 형상 관리 경험이 있으신 분
+- 문제 해결에 대한 다양한 접근과 해결 방안에 대해 고민하시는 분
+- 커뮤니케이션이 원활하고 코드 리뷰에 적극적이신 분
+- 개발자로서 성장에 대해 계속 고민하시는 분",프론트엔드 개발자
+61,피나클FINAKLE,,0,"['Python', 'FastAPI', 'Docker', 'Kubernetes', 'AWS', 'ec2', 'MySQL', 'Node.js', 'nginx', 'Redis']","- 신규 서비스 또는 플랫폼을 개발 및 런칭하고 성장시켜보신 경험이 있으신 분
+- 빠르게 변화하고 성장하는 스타트업 환경에 적응 가능한 분
+- 핀테크 경험, 증권계좌 연동, 금융 공공API 연동, 금융기관등 외부 시스템 연동 및 사용 경험이 있으신 분
+- 웹, 앱서비스 개발 전반에 대한 풍부한 경험 및 지식 보유하신 분
+- 블록체인 기술에 대한 이해와 응용경험이 있으신 분
+
+- 유연하고 긍정적인 관점으로 상황과 업무를 바라보는 마인드를 소유하신 분
+- 주니어 엔지니어를 멘토링하고, 다양한 이해관계자 간의 의사소통을 원만히 할 수 있는 능력이 있는 분
+- 좋은 개발 문화에 관심이 깊거나 도입시킨 경험이 있는 분
+- 팀에 필요한 신기술 도입을 검토하고 적용해본 경험이 있는 분",https://www.rallit.com/positions/2113/backend-developer-leader-senior,"- 백엔드 개발 경력 7년 이상 혹은 이에 준하는 프로젝트 개발 경험을 보유하신 분
+- Python 기반 프레임워크및 AWS를 통한 웹 서비스 구축 경험이 충분히 있으신 분
+- 비즈니스 핵심을 이해하고 효율적인 데이터 구조 및 API 설계가 가능하신 분
+- 관계형 데이터베이스 설계, 모델링 및 운영 경험
+- 실제 엔드유저 대상 서비스 개발 및 운영 경험이 있으신 분
+- 개발팀의 팀원들을 매니징하며 팀을 리딩한 경험이 있으신 분",백엔드 개발자
+62,문토,서울특별시 강남구,4,"['Node.js', 'AWS', 'NestJS', 'PostgreSQL', 'Redis', 'ec2']","- 컴퓨터공학 및 공학 관련 계열을 전공하신 분
+- 백엔드 개발 경력 5년 이상인 분
+- Docker를 사용해보신 분
+- 서버 아키텍처에 대한 풍부한 지식 및 경험을 지니신 분",https://www.rallit.com/positions/1980/node-js-%EA%B0%9C%EB%B0%9C%EC%9E%90,"- 백엔드 개발 경력 3년 이상 혹은 이에 준하는 경험을 가지고 계신 분
+- 웹 서비스에 대한 이해가 있으신 분
+- Due를 잘 지키고 책임감이 있으신 분
+- 코드 리뷰에 긍정적이고, 원활한 커뮤니케이션이 가능하신 분
+- 다양한 직군의 동료들과 협업하여 문제를 파악하고 해결할 수 있는 분",백엔드 개발자
+63,데브게이트,서울특별시 서초구,0,"['Slack', 'Notion', 'Figma', 'GitHub', 'TypeScript', 'Next.js', 'NestJS', 'Prisma', 'AWS', 'vercel']","이런 분이면 더 좋아요~~!!
+- 자신만의 제품을 제로 베이스에서 개발하고 운영해보신 분
+- 어느 집단이든 똑똑함을 인정 받으시는 분
+- 그 밖에 본인만의 강점이 있는 분",https://www.rallit.com/positions/2252/problem-solver-40%EC%8B%9C%EA%B0%84-%EB%82%B4%EC%97%90-%EC%97%B0%EB%B4%89%EC%A0%9C%EC%95%88,"이런 분을 찾아요!
+- 고객 획득, 디자인, 엔지니어링 중 하나 이상에서 괄목할만한 성과를 내신 분
+- 문제 해결에 대한 미친 집착과 어떻게든 해결하고자 하는 의지가 있으신 분
+- AI 리터러시가 있으신 분",Problem Solver
+64,데브게이트,서울특별시 서초구,0,"['TypeScript', 'Next.js', 'tailwind-css', 'zustand', 'NestJS', 'Prisma', 'React Native', 'expo', 'AWS', 'vercel']","이런 분이면 더 좋아요~~!!
+- 자신만의 제품을 제로 베이스에서 개발하고 운영해보신 분
+- 코드 품질에 대해 지속적으로 고민하는 분
+- 사용자 경험을 이해하고, 주도적으로 제안할 수 있는 분
+- 그 밖에 본인만의 강점이 있는 분",https://www.rallit.com/positions/2251/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-typescript-40%EC%8B%9C%EA%B0%84-%EB%82%B4%EC%97%90-%EC%97%B0%EB%B4%89%EC%A0%9C%EC%95%88,"이런 분을 찾아요!
+- 제품 개발을 즐기시는 분
+- 웹 표준, ES6, Typescript 에 깊은 이해가 있으신 분
+- 서버, DB에 관한 기본적인 이해와 경험(e.g. REST API로 CRUD 구현, 인증 처리 등)이 있으신 분
+
+우리는 아래 도구를 이용해요
+스택 자체에 얽매이지 않고 더 나은 방식이 있다면 과감하게 변경할 수 있어요
+
+개발
+- Typescript, Next.js, TailwindCSS, Zustand
+- React Native, Expo
+- NestJS, Prisma
+- AWS, Vercel, Supabase, Turborepo
+
+디자인
+- Figma
+
+협업
+- Slack, Notion, Github",Problem Solver
+65,미스터카멜,서울특별시 용산구,4,"['C#', 'Selenium', 'Elasticsearch', 'Redis', 'MySQL', 'AWS']","[우대사항]
+• C# 포함 개발 실무 5년 이상 경력
+• 완벽한 서비스 운영에 대한 고민 경험
+• 모니터링을 통한 성능 분석과 개선에 대한 고민 경험
+• 대규모 트래픽 발생과 핸들링에 대한 고민 경험
+• 크롤링 방어 회피 경험
+• 자신의 생각을 명확하고 간결한 표현 가능
+
+[기술스택]
+• Java Spring Boot, Data, Cloud, Security, Batch, Python TensorFlow
+• **C# Data Analysis, Web Crawling(Socket, Selenium) (DevOps 주요 기술)**
+• JavaScript, React, Next.js, TypeScript, React-Query (프론트엔드 주요 기술)
+• Mobile WebApp(Kotlin, Swift)
+• **ElasticSearch, Redis, SQS, MySQL**
+• **AWS, ElasticCloud, Grafana**
+•  Notion, Slack, Asana, G Suite, Zoom, GitHub, Figma
+• GA(GTM), Amplitude, Braze, AppsFlyer, Firebase",https://www.rallit.com/positions/620/devops-engineer,"• 개발 실무 3년 이상 경력
+• OOP 기반 개발 역량 보유
+• 크롤링에 대한 이해
+• 코드리뷰 가치에 대한 이해
+• 읽히는 코드 작성",데브옵스 엔지니어
+66,디에스랩글로벌,서울특별시 영등포구,4,"['알고리즘', 'FastAPI', 'Django', 'AWS', 'Azure', 'Docker', 'Kubernetes', 'DBMS/RDBMS']","• FastAPI, Django 등 웹 프레임워크 사용 경험
+• AWS, GCP, Azure 등 클라우드 플랫폼 사용 경험 및 클라우드 기반 웹 서비스에 대한 이해
+• Docker, Kubernetes 등 가상화 관련 플랫폼 사용 경험
+• 형상관리 도구(Git, SVN)를 통한 프로젝트 관리/협업 경험
+• RDB, NoSQL에 대한 이해도 및 서비스에 적절하게 사용할 수 있는 능력",https://www.rallit.com/positions/217/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90,"• 백엔드 개발 경력 3년 이상
+• 한 가지 이상의 언어를 능숙하게 다루실 수 있는 분
+• 자료구조, 알고리즘, 데이터베이스, 네트워크 등 전산 지식을 활용한 문제 해결 능력
+• 지속적으로 변화하는 비지니스를 빠르게 파악하고 알맞은 데이터 모델과 API를 설계할 수 있는 능력",백엔드 개발자
+67,리본솔루션,인천광역시 연수구,0,"['Node.js', 'TypeScript', 'DBMS/RDBMS', 'AWS', 'MySQL', 'NoSQL']","• AWS 유경험자
+• 배포 프로세스 환경 구축 및 사용 유경험자
+• RDBMS, NoSQL 등 유경험자
+• 테스트 코드 작성 및 CI/CD 개발 환경 유경험자",https://www.rallit.com/positions/2272/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90,• 백엔드 개발 및 유지보수 경력 1년 이상,백엔드 개발자
