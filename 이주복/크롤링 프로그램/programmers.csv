@@ -1,19 +1,5 @@
-기업명,사원수,주소,직무,이용하는 기술스택,자격요건,직급,우대사항,해당 페이지 URL,기업 홈페이지 URL
-AB180,101 명,"대한민국 서울특별시 서초구 강남대로61길 17, 강남대로61길 17",데브옵스,"Go
-Python
-Apache Druid
-AWS DynamoDB
-AWS EC2","최소 5년 이상의 DevOps 업무 경험
-하나 이상의 개발 언어로 개발 혹은 자동화를 수행해본 경험
-대용량 트래픽 서비스 시스템 개발 및 운영 경험
-IaC(Infrastructure as Code) 및 지속적 통합과 배포 자동화 구축 경험",5 ~ 10년,"AdTech 관련 도메인 경험
-더 적은 비용으로 시스템을 운영하기 위한 비용 관리 경험
-클라우드 서비스 위에서의 트러블 슈팅 및 성능 분석 경험
-퍼포먼스 테스트 및 성능 부하 테스트에 대한 경험
-자동화된 DR(Disaster Recovery)를 통한 고가용성 확보 경험
-기본적인 Web Application(Backend)의 구조를 이해하고 개발해본 경험
-Kubernetes 환경 CI/CD 파이프라인 구축 및 운영 경험",https://career.programmers.co.kr/job_positions/11945,https://www.ab180.co/
-레몬베이스,63 명,"서울 성동구 아차산로 68, (성수동2가) 11층, 12층 레몬베이스",데이터 엔지니어링,"AWS IAM
+,기업명,사원수,주소,직무,이용하는 기술스택,자격요건,직급,우대사항,해당 페이지 URL,기업 홈페이지 URL
+0,레몬베이스,67 명,"서울 성동구 아차산로 68, (성수동2가) 11층, 12층 레몬베이스",데이터 엔지니어링,"AWS IAM
 AWS VPC
 AWS EC2
 Terraform
@@ -27,7 +13,21 @@ MLOps 운영 경험이 있으신 분
 개선되고 성장하는 레몬베이스의 프로덕트 및 서비스에 맞추어 확장 가능한 데이터 아키텍처 구성 경험이 있으신 분
 고객들을 대상으로 하는 데이터 제품 및 플랫폼 운영 경험이 있으신 분
 구성원의 데이터 리터러시를 올리기 위한 활동 경험이 있으신 분",https://career.programmers.co.kr/job_positions/18904,https://lemonbase.com
-오토위니,55 명,"서울 강남구 남부순환로 2645, 3층 (도곡동, 한독빌딩)",서버/백엔드,"Java
+0,AB180,101 명,"대한민국 서울특별시 서초구 강남대로61길 17, 강남대로61길 17",데브옵스,"Go
+Python
+Apache Druid
+AWS DynamoDB
+AWS EC2","최소 5년 이상의 DevOps 업무 경험
+하나 이상의 개발 언어로 개발 혹은 자동화를 수행해본 경험
+대용량 트래픽 서비스 시스템 개발 및 운영 경험
+IaC(Infrastructure as Code) 및 지속적 통합과 배포 자동화 구축 경험",5 ~ 10년,"AdTech 관련 도메인 경험
+더 적은 비용으로 시스템을 운영하기 위한 비용 관리 경험
+클라우드 서비스 위에서의 트러블 슈팅 및 성능 분석 경험
+퍼포먼스 테스트 및 성능 부하 테스트에 대한 경험
+자동화된 DR(Disaster Recovery)를 통한 고가용성 확보 경험
+기본적인 Web Application(Backend)의 구조를 이해하고 개발해본 경험
+Kubernetes 환경 CI/CD 파이프라인 구축 및 운영 경험",https://career.programmers.co.kr/job_positions/11945,https://www.ab180.co/
+0,오토위니,55 명,"서울 강남구 남부순환로 2645, 3층 (도곡동, 한독빌딩)",서버/백엔드,"Java
 Spring
 Spring Boot
 Oracle
@@ -41,7 +41,7 @@ AWS 등 클라우드 환경에서 서비스 개발/운영 경험
 유저가 겪는 문제점을 찾고 기술로 해결하는데 관심 있으신 분",5 ~ 15년,"Jira, Confluence 등 협업툴 사용에 익숙하신 분
 아키텍처 변경에 따른 마이그레이션 경험이 있으신 분
 꾸준한 학습과 내가 아는 것을 공유하는 것을 좋아하시는 분",https://career.programmers.co.kr/job_positions/8952,https://www.autowini.com/
-페이타랩,68 명,"서울 강남구 영동대로85길 34, (대치동) 6층","서버/백엔드, 웹 풀스택, 데이터 엔지니어링","Python
+0,페이타랩,66 명,"서울 강남구 영동대로85길 34, (대치동) 6층","서버/백엔드, 웹 풀스택, 데이터 엔지니어링","Python
 Flask
 Git
 Jenkins
@@ -80,7 +80,7 @@ MSA를 이해하고 개발 및 설계를 경험해 보신 분
 서비스의 도메인을 이해하고, 도메인 주도 설계 경험이 있으신 분
 팀과 함께 성장하며 지식을 공유하는 문화를 지향하시는 분
 요구사항 분석 및 다른 개발자와 협업을 위한 원활한 커뮤니케이션 능력을 가지신 분",https://career.programmers.co.kr/job_positions/7304,https://recruit.passorder.co.kr/
-로보코리아,33 명,"서울 강남구 테헤란로25길 7, (역삼동)",QA,"JIRA
+0,로보코리아,33 명,"서울 강남구 테헤란로25길 7, (역삼동)",QA,"JIRA
 TypeScript
 NestJS
 Node.js
@@ -102,7 +102,7 @@ AWS EC2","3~5년의 웹 서비스 QA 경험을 갖추었거나 그에 준하는 
 테스팅 자동화 도구에 대한 이해 및 자동화 QA에 대한 경험을 보유하신 분
 React 및 Node.js 환경에서의 E2E 테스트 개발 경험을 보유하신 분
 ISTQB나 CSTS 등 SW 테스팅 관련 자격증을 보유하신 분",https://career.programmers.co.kr/job_positions/24156,https://www.lovo.ai
-한화비전,791 명,경기도 성남시 분당구 판교로319번길 6 (삼평동),"서버/백엔드, 웹 풀스택, 데브옵스","Kubernetes
+0,한화비전,791 명,경기도 성남시 분당구 판교로319번길 6 (삼평동),"서버/백엔드, 웹 풀스택, 데브옵스","Kubernetes
 AWS EC2
 Azure
 GCP(Google Cloud Platform)
@@ -120,7 +120,7 @@ Site Reliability Engineering과 관련한 자신의 스킬/경력을 나타낼 �
 (우대) Shell Script, Powershell 스크립트에 대한 이해도가 높으신  분
 (우대) 자동화 스크립트에 대한 이해도가 높으신 분
 (우대) 관련 오픈 소스 Contribution 을 경험한 분",https://career.programmers.co.kr/job_positions/24602,https://hanwhavision.ninehire.site
-디플래닉스,25 명,"서울 서초구 강남대로 465, 강남 교보타워 B동 4층",데이터 엔지니어링,"GCP(Google Cloud Platform)
+0,디플래닉스,25 명,"서울 서초구 강남대로 465, 강남 교보타워 B동 4층",데이터 엔지니어링,"GCP(Google Cloud Platform)
 Azure
 AWS Glue
 AWS EC2
@@ -141,7 +141,7 @@ Python, SQL, Scala, Java 중 한 가지 이상의 언어로 개발이 가능한 
 대용량 데이터 처리에 대한 설계 또는 구축 경험이 있는 분
 Apache Spark 프로젝트와 결과물에 대한 경험 혹은 관심이 있는 분
 클라우드 관련 혹은 기타 IT 자격증을 보유한 분",https://career.programmers.co.kr/job_positions/26024,https://www.dplanex.com/
-발란,66 명,"대한민국 서울특별시 강남구 테헤란로 217, 10층","서버/백엔드, 웹 풀스택","Node.js
+0,발란,66 명,"대한민국 서울특별시 강남구 테헤란로 217, 10층","서버/백엔드, 웹 풀스택","Node.js
 MySQL
 MariaDB
 MongoDB
@@ -170,7 +170,7 @@ MSA 설계 및 개발 경험이 있는 분
 Source Management System과 Branch Strategy 에 대한 이해가 깊으신 분
 OAS(OpenAPI Specification) 기반의 개발 경험이 있으신 분
 3년 이상 파트 리딩에 대한 경험이 있는 분",https://career.programmers.co.kr/job_positions/19776,http://balaanofficial.com
-헬스피디아,9 명,다산로104,서버/백엔드,"Python
+0,헬스피디아,5 명,다산로104,서버/백엔드,"Python
 Django
 Java
 AWS EC2
@@ -186,7 +186,7 @@ DRF(Django REST framework)","• 웹에 대한 전반적인 지식, 웹 통신�
 • GA4 등 구글 애널러틱스를 활용한 로깅 협업 경험
 • SDK 설치 또는 개발 경험
 • Firebase 활용 역량: 앱 푸시 등 앱 연동 기능 개발 경험",https://career.programmers.co.kr/job_positions/24668,https://afzima.com
-로보코리아,33 명,"서울 강남구 테헤란로25길 7, (역삼동)",서버/백엔드,"AWS CodeDeploy
+0,로보코리아,33 명,"서울 강남구 테헤란로25길 7, (역삼동)",서버/백엔드,"AWS CodeDeploy
 AWS CodeStar
 AWS CodeBuild
 AWS CodePipeline
@@ -225,7 +225,7 @@ TDD(Test Driven Development)방식을 실무에 적용해 보신 분
 - 효율성과 프로세스를 고민하고 또 고민하시는 분!
 - 자신의 성장을 위해 노력하시는 분!
 - 매사에 주도적이고, 책임감이 강하신 분!",https://career.programmers.co.kr/job_positions/22921,https://www.lovo.ai
-플라잉캣,3 명,"서울 강남구 논현로57길 30, (도곡동)",서버/백엔드,"Docker
+0,플라잉캣,3 명,"서울 강남구 논현로57길 30, (도곡동)",서버/백엔드,"Docker
 MySQL
 Node.js
 TypeScript
@@ -264,7 +264,7 @@ GitLab","• 소프트웨어 원리 원칙을 준수하시는 분 (SOLID, ACID)
 [지원 안내]
 - 지원 서류 : 이력서(필수), 포트폴리오(선택)
 - 채용 절차 : 서류 전형 ＞ 1차 인터뷰＞ 2차 기술 인터뷰 ＞ 최종 결과 안내",https://career.programmers.co.kr/job_positions/16502,https://www.sync.day
-AB180,101 명,"대한민국 서울특별시 서초구 강남대로61길 17, 강남대로61길 17",서버/백엔드,"AWS EC2
+0,AB180,101 명,"대한민국 서울특별시 서초구 강남대로61길 17, 강남대로61길 17",서버/백엔드,"AWS EC2
 AWS ECS
 AWS Lambda
 Docker
@@ -278,7 +278,7 @@ Flask, Django, Spring과 같은 framework를 이용한 백엔드 개발 경험�
 고객이 존재하는 서비스의 백엔드 개발 경험, 혹은 그에 준하는 경험이 있으신 분",1 ~ 2년,"AWS, GCP, Azure와 같은 클라우드 컴퓨팅 서비스 사용 경험이 있으신 분
 고객에게 관심이 많으신 분
 마케팅 도메인 경험이 있으신 분",https://career.programmers.co.kr/job_positions/6181,https://www.ab180.co/
-월급쟁이부자들,84 명,"서울 서초구 사임당로 143, (서초동) 201호","프론트엔드, 웹 풀스택","CSS
+0,월급쟁이부자들,84 명,"서울 서초구 사임당로 143, (서초동) 201호","프론트엔드, 웹 풀스택","CSS
 HTML
 JavaScript
 ReactJS
@@ -292,7 +292,7 @@ React hook을 활용한 프로젝트 개발 주도 경험을 보유하신 분
 웹 서비스 제품 전체 개발 프로세스에 주도적으로 참여한 경험을 보유하신 분
 HTML, CSS 등 W3C 웹 표준 규격에 대한 이해도가 높으신 분
 풀스택 개발 경험을 보유하신 분",https://career.programmers.co.kr/job_positions/12336,https://career.weolbu.com
-에잇퍼센트,55 명,"서울특별시 영등포구 국제금융로2길 17, 13층(여의도동, 씨티플라자)","서버/백엔드, 웹 풀스택, 시스템/네트워크","Django
+0,에잇퍼센트,55 명,"서울특별시 영등포구 국제금융로2길 17, 13층(여의도동, 씨티플라자)","서버/백엔드, 웹 풀스택, 시스템/네트워크","Django
 DRF(Django REST framework)
 Python
 AWS EC2
@@ -303,7 +303,7 @@ PostgreSQL","Python을 현재 사랑하고 계시거나 앞으로 사랑하실 �
 관련 경험을 3년 이상 갖추신 분",3 ~ 7년,"Cloud(AWS등) 시스템 하에서 개발 경험
 Python 환경에서의 데이터 분석 경험
 테스트 작성과 설계에 익숙하신 분",https://career.programmers.co.kr/job_positions/22137,http://8percent.kr
-앤트,19 명,"서울 강남구 논현로75길 16, (역삼동)",서버/백엔드,"Node.js
+0,앤트,19 명,"서울 강남구 논현로75길 16, (역삼동)",서버/백엔드,"Node.js
 AWS EC2
 NestJS","실무 5년차 이상 혹은 이에 준하는 역량을 보유하신 분
 Typescript + Node.js + Express (또는 Fastify, NestJS)를 활용한 REST API 설계 및 구축에 익숙하신 분
@@ -316,7 +316,7 @@ Python, Java 개발 경험
 높은 코드 품질을 위해 자신의 생각을 논리적으로 제시하실 수 있는 분
 개발, 기획, 디자인팀과 협업을 통해 사용자를 위한 서비스를 만드시는 분
 문제 해결을 위해 새로운 기술을 찾아보고 팀원들과의 커뮤니케이션을 즐기시는 분",https://career.programmers.co.kr/job_positions/10938,https://www.ant-inc.co/
-포스페이스랩,20 명,"서울 강남구 테헤란로 147, (역삼동) 3층 위멤버스클럽",데이터 엔지니어링,"AWS EC2
+0,포스페이스랩,19 명,"서울 강남구 테헤란로 147, (역삼동) 3층 위멤버스클럽",데이터 엔지니어링,"AWS EC2
 AWS RDS
 GCP(Google Cloud Platform)
 HTML
@@ -330,7 +330,7 @@ Linux Server 경험
 REST API, GraphQL 관련 구현에 능숙함
 RDB, MongoDB, Elasticsearch 관련 경험
 데이터 시각화 도구(Tableau, Kibana, PowerBI, 자체 제작한 시각화) 연동 경험",https://career.programmers.co.kr/job_positions/12526,https://forspacelab.com
-유케이미디어,11 명,"서울 종로구 종로 51, (종로2가)",서버/백엔드,"Java
+0,유케이미디어,11 명,"서울 종로구 종로 51, (종로2가)",서버/백엔드,"Java
 Spring Boot
 MySQL
 REST API
@@ -346,7 +346,7 @@ TDD(Test Driven Development)기반의 서비스 개발 경험
 Docker/Container 기반 서비스 경험
 CI / CD 구축 경험
 대용량 트래픽 처리 경험",https://career.programmers.co.kr/job_positions/21767,http://ukmedia.co.kr/
-링키스,3 명,서울특별시 강남구 도산대로 145 인우빌딩 4층 408호 (패스트파이브 신사점),서버/백엔드,"AWS S3
+0,링키스,3 명,서울특별시 강남구 도산대로 145 인우빌딩 4층 408호 (패스트파이브 신사점),서버/백엔드,"AWS S3
 Python
 FastAPI
 AWS EC2
@@ -371,7 +371,7 @@ S3, EC2, Lambda, Route53 (선택 사항)
 MongoDB 및 SQL 데이터베이스 작업 경험이 있으신 분",3 ~ 5년,"컴퓨터공학, 소프트웨어 엔지니어링 또는 관련 분야의 학사 또는 석사 학위 보유자
 Python 및 AWS 서비스를 사용한 백엔드 개발 관련 경험이 3년 이상
 스타트업 근무 경력 및 Agile development 에 대한 이전 경험",https://career.programmers.co.kr/job_positions/21265,https://www.faceonkorea.com/
-차봇모빌리티,78 명,"대한민국 서울특별시 성동구 연무장7길 11, 플레이스캠프 성수 10층",서버/백엔드,"Java
+0,차봇모빌리티,77 명,"대한민국 서울특별시 성동구 연무장7길 11, 플레이스캠프 성수 10층",서버/백엔드,"Java
 Spring Boot
 Node.js
 NestJS
@@ -379,7 +379,7 @@ AWS EC2
 AWS RDS
 MySQL
 WebFlux",,5 ~ 6년,,https://career.programmers.co.kr/job_positions/4345,https://www.chabot.kr/
-카비,23 명,"서울 금천구 벚꽃로 244, (가산동) 벽산디지털밸리 5차 301호","머신러닝, 인공지능(AI), 데이터 엔지니어링","R
+0,카비,22 명,"서울 금천구 벚꽃로 244, (가산동) 벽산디지털밸리 5차 301호","머신러닝, 인공지능(AI), 데이터 엔지니어링","R
 Python
 AWS EC2
 AWS Lambda
@@ -390,7 +390,7 @@ MongoDB","· 데이터사이언티스트 경력 5년 이상
 · R, Python 활용 우수자",2 ~ 15년,"· AWS 환경에서 데이터파이프라인 제작, 데이터베이스 구축 경험이 있으신 분
 · 시계열 데이터 분석의 경험이 풍부하신 분
 · 분석, 예측, 분류 모델 알고리즘 관련 연구 경험이 있으신 분 ",https://career.programmers.co.kr/job_positions/19190,http://carvi.co.kr
-뽀득,265 명,"서울 강남구 테헤란로87길 33, (삼성동)",프론트엔드,"AWS RDS
+0,뽀득,265 명,"서울 강남구 테헤란로87길 33, (삼성동)",프론트엔드,"AWS RDS
 AWS EC2","웹 프론트엔드 개발(Front-end) 경력 2년 이상
 Javascript에 대해 깊은 이해를 가지신 분
 React를 이용한 어플리케이션 개발 경험
@@ -398,12 +398,12 @@ React를 이용한 어플리케이션 개발 경험
 컴퓨터공학 전공 혹은 그에 준하는 전공 및 지식을 보유하신 분",2 ~ 5년,"Back-End 개발자와의 원활한 커뮤니케이션
 웹사이트 성능 측정 및 최적화 경험이 있으신 분
 비즈니스 임팩트 관점으로 업무 우선순위를 판단할 수 있는 분",https://career.programmers.co.kr/job_positions/18299,https://www.bbodek.com/Index
-리걸테크,27 명,"서울 성동구 성수일로 77, (성수동1가) 1104, 1113호","서버/백엔드, 웹 풀스택","Python
+0,리걸테크,27 명,"서울 성동구 성수일로 77, (성수동1가) 1104, 1113호","서버/백엔드, 웹 풀스택","Python
 Django
 AWS EC2","웹서비스 개발 3년 이상 유 경험자
 Python, DJango를 기반으로 한 웹서비스 개발 유 경험자",3 ~ 5년,"일본어 가능
 블록체인 기본 지식 보유",https://career.programmers.co.kr/job_positions/18876,https://legaltech.co.kr
-코넥시오에이치,20 명,"서울 강남구 강남대로 388, (역삼동) 15층","머신러닝, 데이터 엔지니어링, 데브옵스","SQL
+0,코넥시오에이치,20 명,"서울 강남구 강남대로 388, (역삼동) 15층","머신러닝, 데이터 엔지니어링, 데브옵스","SQL
 Python
 Node.js
 AWS EC2
@@ -418,7 +418,7 @@ JavaScript","• 이공계 석사 이상의 학위를 취득하신 분
 • 논문, 특허, 보고서, 제안서 작성 경험",경력 무관,"• 금융, 통계, 빅데이터 관련 연구 실적이 있으신 분
 • 데이터, 핀테크 산업 종사 경험자
 • 스스로 문제를 파악하고 가설을 제기하고 실험을 통해 검증하는 것을 좋아하는 분",https://career.programmers.co.kr/job_positions/18881,https://www.connexioh.net/
-에이치디현대글로벌서비스,528 명,"경기 성남시 분당구 분당수서로 477, (정자동), 16층","서버/백엔드, 프론트엔드, 웹 풀스택","Vue.js
+0,에이치디현대글로벌서비스,528 명,"경기 성남시 분당구 분당수서로 477, (정자동), 16층","서버/백엔드, 프론트엔드, 웹 풀스택","Vue.js
 ExpressJS
 Spring Boot
 TypeScript
@@ -434,7 +434,7 @@ Junit 등을 이용한 테스트 코드 작성 경험
 JPA Hibernate, Sequelize 등 ORM 사용 및 도메인 모델링 경험
 Docker, Kubernates 클러스터 구출과 운영 경험
 SPA, 또는 SSR (Next, Nuxt), Typescript 기반 서비스 개발 경험 및 Back-End 및 DevOps 개발 경력",https://career.programmers.co.kr/job_positions/18662,https://www.hyundai-gs.com
-에디트콜렉티브,15 명,"서울 강남구 삼성로 507, (삼성동) 제이에스타워 2층",서버/백엔드,"Django
+0,에디트콜렉티브,14 명,"서울 강남구 삼성로 507, (삼성동) 제이에스타워 2층",서버/백엔드,"Django
 AWS EC2
 AWS RDS
 Elasticsearch","• 실무 경험 3년 이상
@@ -466,7 +466,7 @@ Elasticsearch","• 실무 경험 3년 이상
 • 기술뿐만 아니라 도메인 지식도 열정을 갖고 학습하시는 분
 • 시작하면 반드시 결과를 만들어 낼 수 있는 분
 • 문화나 체계를 함께 만들고 개선하고 싶으신 분",https://career.programmers.co.kr/job_positions/18477,https://flexity.app/
-제이앤피메디,61 명,"인천 연수구 컨벤시아대로 165, (송도동) , 31층",웹 풀스택,"ReactJS
+0,제이앤피메디,61 명,"인천 연수구 컨벤시아대로 165, (송도동) , 31층",웹 풀스택,"ReactJS
 TypeScript
 JSX
 Sass(SCSS)
@@ -484,7 +484,7 @@ AWS EC2","웹 서비스 개발 경력이 1년 이상인 분 또는 그에 상응
 (FE) 반응형웹, 웹 표준을 고려한 UI 개발 경험이 있는 분
 서비스를 주도적으로 개선하는 일을 좋아하는 분
 임상시험 관련 도메인 지식이 있는 분",https://career.programmers.co.kr/job_positions/17872,https://www.jnpmedi.com/
-제이앤피메디,61 명,"인천 연수구 컨벤시아대로 165, (송도동) , 31층",서버/백엔드,"Node.js
+0,제이앤피메디,61 명,"인천 연수구 컨벤시아대로 165, (송도동) , 31층",서버/백엔드,"Node.js
 TypeScript
 MySQL
 CI/CD
@@ -497,7 +497,7 @@ AWS EC2","웹 서비스 개발 경력이 1년 이상인 분 또는 그에 상응
 스타트업 조직 문화 경험이 있거나, 새롭게 만들어가는 과정에 거리낌 없이 도전적인 분",1 ~ 5년,"대규모 웹 서비스 설계 및 개발 경험이 있는 분
 서비스를 주도적으로 개선하는 일을 좋아하는 분
 임상시험 관련 도메인 지식이 있는 분",https://career.programmers.co.kr/job_positions/17871,https://www.jnpmedi.com/
-제이앤피메디,61 명,"인천 연수구 컨벤시아대로 165, (송도동) , 31층",웹 풀스택,"ReactJS
+0,제이앤피메디,61 명,"인천 연수구 컨벤시아대로 165, (송도동) , 31층",웹 풀스택,"ReactJS
 TypeScript
 JSX
 Sass(SCSS)
@@ -517,7 +517,7 @@ MSA(Micro Service Architecture)에 대해 설계, 개발해 본 경험이 있는
 반응형웹, 웹 표준을 고려한 UI 개발 경험이 있는 분
 서비스를 주도적으로 개선하는 일을 좋아하는 분
 임상시험 관련 도메인 지식이 있는 분",https://career.programmers.co.kr/job_positions/17869,https://www.jnpmedi.com/
-제이앤피메디,61 명,"인천 연수구 컨벤시아대로 165, (송도동) , 31층",서버/백엔드,"Node.js
+0,제이앤피메디,61 명,"인천 연수구 컨벤시아대로 165, (송도동) , 31층",서버/백엔드,"Node.js
 TypeScript
 MySQL
 AWS CloudFront
@@ -533,7 +533,7 @@ MSA(Micro Service Architecture)에 대해 설계, 개발해 본 경험이 있는
 Typescript(javascript) 대해서 전문성을 보유한 분",5 ~ 30년,"대규모 웹 서비스 설계 및 개발 경험이 있는 분
 서비스를 주도적으로 개선하는 일을 좋아하는 분
 임상시험 관련 도메인 지식이 있는 분",https://career.programmers.co.kr/job_positions/17868,https://www.jnpmedi.com/
-잉글리시에그,61 명,"서울 서초구 동작대로 212, (방배동)",웹 풀스택,"JavaScript
+0,잉글리시에그,62 명,"서울 서초구 동작대로 212, (방배동)",웹 풀스택,"JavaScript
 MySQL
 Node.js
 PHP
@@ -545,7 +545,7 @@ flutter","• Flutter 개발 경력 3년 이상
 • Restful API 경험자
 • 다양한 기술 스택 관심이 많은 분
 • 원활한 커뮤니케이션 가능한 분",https://career.programmers.co.kr/job_positions/17863,http://www.englishegg.co.kr
-씨앤에이아이,48 명,서울시 서초구 서리풀길 29-9,서버/백엔드,"Django
+0,씨앤에이아이,48 명,서울시 서초구 서리풀길 29-9,서버/백엔드,"Django
 Python
 Spring
 Docker
@@ -574,327 +574,3 @@ AWS EC2","• 자신의 경험을 공유하면서 주니어 개발자들을 육�
     • 사용 언어: JavaScript, TypeScript, Python
     • 주요 라이브러리: Node.js-Express, Sequelize-Mysql, Flask
     • 업무 도구: Gitlab, Slack, Zeplin, Notion, VSC",https://career.programmers.co.kr/job_positions/17665,https://cnai.ai/home
-인그래디언트,4 명,"서울 서초구 사평대로55길 33, (반포동) 203호","서버/백엔드, 프론트엔드, 개발PM","TypeScript
-ReactJS
-Storybook
-Node.js
-MySQL
-TypeORM
-REST API
-Docker
-Python
-CI/CD
-Selenium
-GitHub
-AWS CloudFront
-AWS S3
-AWS EC2
-AWS ElasticBeanstalk
-AWS Route 53
-AWS RDS
-AWS Lambda
-AWS Certificate Manager
-Kubernetes","웹(앱) 개발 경력 7년 이상(개발팀 리더 경력 2년 이상 포함) 또는 그에 준하는 역량을 갖추신 분
-Typescript, React 및 한 가지 이상의 Backend 기술 개발과 DB 성능 튜닝 경험이 있으신 분
-요구사항을 파악하여 데이터 모델과 시스템을 설계한 경험이 있으신 분
-프로젝트 초기 구축부터 배포까지의 A-Z 경험이 있으신 분
-문제 해결 관점의 접근 방식에 능숙하고 분석적이며 논리적 사고를 즐기시는 분",7 ~ 10년,"영어 소통이 가능하신 분
-AI 관련 스타트업에서 개발팀을 리드해본 경험이 있으신 분
-RDBMS를 이용한 개발 또는 운영 경험이 있으신 분
-컴퓨터공학 또는 AI 관련 전공 혹은 그에 준하는 전공 및 지식 보유자
-대용량 트래픽 처리를 경험해본 적이 있으신 분
-실시간 데이터 처리/분석 경험이 있으신 분
-애자일 관련 개발 방법론에 대한 경험이 있으신 분
-클라우드 환경에서 일한 경험이 있으신 분
-B2B 상용 서비스 플랫폼을 개발 경험이 있는 분",https://career.programmers.co.kr/job_positions/16973,https://www.ingradient.ai/kr/index.php
-에이에프아이,22 명,"서울 성동구 아차산로 17, (성수동1가) 서울숲엘타워 1301호","서버/백엔드, 게임 클라이언트, 게임 서버","Unity
-Unreal Engine
-C#
-AWS EC2
-AWS DynamoDB
-AWS ECS
-AWS Lambda","Unity(C#) 게임 프로그래밍 경력이 3년 이상이신 분이 필요합니다.
-(또는) SDK 개발 경험이 3년 이상이신 분이 필요합니다.
-C#을 능숙하게 활용하실 수 있는 분이 필요합니다.
-기술 문서 작성이 가능하신 분이 필요합니다.
-힘들었던 개발 경험에 대해 회고가 익숙하며, 남을 도와주는 것에 보람을 느끼는 분을 찾습니다.",3 ~ 12년,"게임을 좋아하고 게임 산업에 호기심이 있는 분은 저희와 문화적으로 맞을 가능성이 높습니다.
-서버에 대한 이해가 있으신 분을 우대합니다.
-네트워크 게임 출시 경험이 있으신 분을 우대합니다.",https://career.programmers.co.kr/job_positions/16572,https://www.afidev.com/
-티웨이브,21 명,"서울 강남구 삼성로85길 26, (대치동) V&S빌딩 7층","서버/백엔드, 웹 풀스택","Java
-Jenkins
-MySQL
-Spring Boot
-Spring Data JPA
-MyBatis
-GitLab
-AWS EC2","Java 개발 경력 7년 이상 경험 or 실력을 보유 하신 분(필수)
-Spring기반 프레임워크를 활용하여 웹 애플리케이션 개발 경험 있으신 분
-REST API 설계, 개발 경험 있으신 분
-RDBMS(MySQL등) 경험이 있으신 분
-비즈니스 요구사항에 맞는 아키텍쳐 및 DB 설계 가능하신 분
-TDD/리팩토링 경험 및 개발 역량을 보유하신 분
-
-* 기술스택 확인  : https://www.codenary.co.kr/company/detail/14580 참고",7 ~ 13년,"금융/핀테크/커머스 시스템 개발 경험이 있으신 분
-클라우드 기반 서비스 개발 및 운영 경험 있으신 분
-지속적인 시스템 개선에 대한 경험 있으신 분
-MSA 관련 설계, 개발 경험 있으신 분
-대용량 트래픽을 처리하는 시스템을 개발/운영 해 본 경험 있으신 분
-장애 상황에서도 긴장하지 않고 빠르게 원인 분석 및 해결할 수 있으신 분
-동료들과 코드 리뷰 하는데 거부감이 없으신 분
-
-티웨이브가 찾고 있는 개발자는?
-소프트웨어 품질에 대해 고민하시고, 기술부채를 해결하고자 애쓰시는 분
-동료들과 원활한 커뮤니케이션이 가능하신 분
-서비스에 가장 적합한 기술을 찾고 제안하시는 분
-회사 성장 뿐만 아니라 본인 성장을 위해 노력하시는 분",https://career.programmers.co.kr/job_positions/16143,https://www.twave.co.kr
-와이오엘오,37 명,"서울 마포구 월드컵로10길 5-6, (서교동) 1,2층","서버/백엔드, 웹 풀스택","AWS EC2
-MongoDB
-TypeScript
-Node.js
-NestJS
-Git
-Java","Git으로 협업하는데 어려움이 없으신 분
-불필요한 트래픽을 줄여 서버 부하를 줄여본 경험이 있으신 분
-서비스 관련 전체 로그 처리에 관한 업무를 경험해보신 분
-NoSQL 사용에 익숙하신분
-서버 보안 관련 업무 경험이 있으신 분
-간편 결제 페이 개발 관련 업무를 경험해보신 분",1 ~ 8년,"Node.js, MongoDB, AWS등 서버 경험이 있으신 분
-보안관련 이슈를 해결해본 경험이 있으신 분
-코드 아키텍쳐를 통해 팀원과 원할한 문화를 만드신 경험이 있으신 분
-JS → TS 마이그레이션 경험이 있으신 분",https://career.programmers.co.kr/job_positions/14256,https://www.yolocorp.kr/
-포스페이스랩,20 명,"서울 강남구 테헤란로 147, (역삼동) 3층 위멤버스클럽","서버/백엔드, 시스템/네트워크, 데브옵스","Docker
-Git
-MySQL
-Node.js
-Redis
-AWS CloudFront
-AWS EC2
-AWS RDS
-AWS S3
-AWS ElasticBeanstalk
-AWS Lambda
-AWS CodePipeline","Python, Java, Node.js 등을 사용한 5년 이상의 개발 경력 또는 그에 준하는 실력
-고가용, 확장 가능한 시스템 아키텍쳐 설계 및 개발 능력
-AWS, GCP 등 클라우드 서비스 사용 경험
-
-업무 시 필요한 마음가짐
-PM, Data Engineer, Data Analyst와 적극적인 협업
-본인의 의사를 적극적으로 표현 (화내면 안돼요..)
-상대방을 배려하는 언행
-본인이 맡은 업무는 책임질 줄 아는 자세
-새로운 기술에 대한 적극적이고 열린 자세
-Pair Programming/Code Review에 긍정적 자세
-주도적으로 서비스 개발하는 자세",5 ~ 12년,"컨테이너 기반 서비스 개발 및 운영 경험
-데이터베이스(RDBMS 또는 NoSQL,NewSQL)에 대한 이해
-대용량 분산 인프라 설계, 운영 경험(Kafka, CDC등)
-데이터 시각화 도구(Tableau, Kibana, PowerBI, 자체 제작한 시각화) 연동 경험
-Serverless 기반의 서버 구현 경험",https://career.programmers.co.kr/job_positions/12988,https://forspacelab.com
-아레나캐스트,3 명,"서울 성동구 연무장길 76, (성수동2가) 1108호","서버/백엔드, 웹 풀스택, 게임 서버","Java
-MySQL
-Spring
-Node.js
-JavaScript
-Amazon Web Services(AWS)
-AWS EC2
-MariaDB","• 3년 이상 관련 실무경험
-• Git 등 버전관리 시스템 사용 경험
-• 기술 트렌드와 신규 기술 습득에 열정이 있으신 분
-• SpringBoot 사용 경험
-• Rest API 개발 경험
-• Java 개발 경험
-• SQL(MySQL), NoSQL 사용 경험 및 관련 지식
-• Linux 기반 서버 사용 경험",3 ~ 15년,"• 프로그래밍 관련 학과 전공자
-• api 설계와 비즈니스 로직 개발 경험자
-• 프로그래밍 관련 학과 전공자
-• AWS, Azure 등 클라우드 서비스 사용 경험
-• JPA, QueryDSL 등 ORM 활용 경험
-• Socket을 이용한 개발 경험
-• CI, CD 환경 경험",https://career.programmers.co.kr/job_positions/4328,https://www.arenacast.io/
-컨비니언스,36 명,"서울 마포구 잔다리로 39, (서교동) 로뎀빌딩 5층","프론트엔드, 웹 풀스택","JavaScript
-ReactJS
-ES6
-jQuery
-AWS EC2
-AWS S3
-Next.js
-TypeScript","React/Next.js, Typescript 를 활용한 프론트엔드 개발 경험이 있으신 분
-React Hook에 대한 이해 및 개발 경험이 있으신 분
-Git 사용에 불편함이 없으신 분
-바른생각이 추구하는 가치에 깊이 공감하고, 이를 기반으로 섹슈얼 라이프스타일 시장에 혁신을 만들어보고 싶으신 분",3 ~ 10년,"웹 서비스 운영 경험이 있으신 분
-합리적인 사고를 기반으로 최선의 선택을 하시는, 또는 하려고 노력하시는 분
-새로운 기술에 관심과 호기심이 많으신 분",https://career.programmers.co.kr/job_positions/4674,https://cvkorea.co.kr/
-쿤텍,81 명,"경기도 성남시 수정구 창업로54, LH 성장기업센터 232호","인공지능(AI), 데이터 엔지니어링, 데브옵스","SQL
-Python
-Apache Spark
-Java
-Microsoft Azure
-AWS EC2","- 컴퓨터 사이언스, 공학, 수학 또는 관련 분야의 학사 학위 또는 이와 유사한 수준의 경험
-- 최소 하나 이상의 SQL 기술(Hive, Pig, Impala, Spark SQL, Presto, Postgre SQL)에 대한 지식
-- 최소 하나 이상의 프로그래밍 언어(Java, JavaScript, Python 등)로 소프트웨어 코드를 개발한 경험 구현 업무 실무 수행 가능
-- 최소 하나 이상의 programming language (백엔드 위주 개발 경력 필요)
-- 최소 하나 이상의 클라우드 사용 경험",경력 무관,"- Data Warehouse 설계, BI보고서 및 대시 보드 개발을 포함한 업계의 데이터베이스, 분석 기술에 대한 이해
-- ETL 파이프라인을 통해 BI 시각화를 위한 툴(Tableau, MS Power BI 등)에 리포팅해본 경험
-- SQL을 사용한 Raw Data핸들링 역량
-- 다양한 로그 데이터 운영 경험
-- Hadoop, Spark, Kafka 등의 데이터플랫폼 관련 경험
-- AWS, GCP, Azure와 같은 클라우드 서비스 위에서의 개발 경험
-- 웹 프론트엔드/백엔드 개발 경력
-- Spring, Flask, Django, Laravel 등 Web Framework를 이용한 개발 경험",https://career.programmers.co.kr/job_positions/10895,https://coontec.kr/
-쿤텍,81 명,"경기도 성남시 수정구 창업로54, LH 성장기업센터 232호","인공지능(AI), 데이터 엔지니어링, 데브옵스","Python
-R
-Azure
-Machine Learning
-GCP(Google Cloud Platform)
-AWS EC2
-AWS S3
-AWS Lambda","컴퓨터공학, 데이터 , AI, 수학/통계학 등 전산계열 전공자
-개발 경험",경력 무관,"통계적 기법을 통한 데이터 분석 역량
-R/Python 프로그래밍 및 기본적인 쿼리 작성 능력
-AWS, Azure 등 클라우드 환경에 대한 이해
-쿠버네티스 및 도커에 대한 기술 역량
-데이터 분석 관련 자격 보유
-빅데이터 분석 프로젝트 유경험자 (데이터 분석 파이프라인 구축 유경험자)
-Dataiku,Data Robot, H2O, TensorFlow 등 사용 경험자
-Tableau, MS Power BI 등 BI 사용 경험자
-Snowflake 등 data warehouse, data lake 사용 경험자
-인근거주자, 해당직무 근무경험, 문서작성 우수자",https://career.programmers.co.kr/job_positions/10007,https://coontec.kr/
-누벤트,18 명,"서울 강남구 테헤란로 501, (삼성동) 719호","서버/백엔드, 데이터 엔지니어링, 시스템/네트워크","Python
-MySQL
-AWS EC2
-Linux
-Redis
-FastAPI","- python 기반 서비스 경험
-- 하나 이상의 RDBMS, NoSQL 사용 경험
-- AWS 인프라 사용 및 구축 경험
-- 3년 이상의 관련 기술 개발 경험",3 ~ 10년,"- 데이터&SaaS 서비스 개발 경험
-- API 연동 개발 경험
-- 정규표현식을 활용한 데이터 처리 경험",https://career.programmers.co.kr/job_positions/12593,https://www.attracker.shop/
-셀러허브,48 명,서울 강남구 삼성동 144-5 (에이타워),"서버/백엔드, 웹 풀스택, 데브옵스","PHP
-Redis
-MySQL
-JavaScript
-Git
-Docker
-AWS EC2
-AWS ElastiCache
-AWS S3
-AWS RDS
-AWS Lambda","백엔드 개발경험 3년이상 또는 그에 준하는 경험이 있는 분
-함께 협업하는 사람들과 논리적으로 의사소통 할 수 있는 분
-다양한 프로젝트에 대한 자원 배분 및 시간을 관리할 수 있는 분
-장기적인 관점으로 확장성 있고 유연한 설계와 코드 품질에 대해 고민하는 분
-RDBMS,Front-End 등 인접기술에 대한 이해가 있으신 분",1 ~ 10년,"개발을 진정 좋아하며, 본인이 맡은 기술적 챌린지를 해결해 나가는 것을 진정으로 즐기는 자세
-온라인 이커머스 환경에 대한 높은 이해도 및 관련 개발 경험
-PHP framework (Laravel, Codeigniter, Phalcon, etc)을 사용해본 경험
-디자인 패턴 (Factory, Singleton, Strategy 등) 를 활용하여 서비스를 적용해본 경험
-자료구조 (스택, 큐, 선형구조 등)에 대한 이해도
-AWS (EC2, S3, SNS, Lambda 등)을 활용한 개발 경험
-형상관리 경험 (Git,SVN,Mercurial) 이 있으신 분",https://career.programmers.co.kr/job_positions/12652,http://www.sellerhub.co.kr
-아이트럭,18 명,"서울 서초구 동작대로 230, (방배동) 화련회관 10층",서버/백엔드,"Node.js
-TypeScript
-REST API
-ExpressJS
-MySQL
-Sequelize.js
-AWS EC2
-AWS RDS
-AWS S3","이런 분을 환영합니다! 🙂
-Node.js 숙련자 및 웹 서비스 이해가 있으신 분
-TypeScript 기반 서버개발 및 운영 경험이 있으신 분
-RESTful API 이해가 높은신 분
-상용 서비스 및 제품 개발에 참여해 본 경험이 있으신 분
-다양한 UI 개발 경험과 사용자 경험에 대한 깊이 있는 이해도를 보유하신 분
-논리적이고 체계적인 문제해결 능력이 있으신 분
-효과적인 의사전달 및 협업 능력이 있으신 분",경력 무관,"이런 분은 더욱 환영합니다! 😀
-새로운 기술 습득과 지식 공유에 즐거움을 느끼시는 분
-코드 개선 및 코드 리뷰에 적극 참여하시는 분
-웹 서비스 성능 개선 경험 및 노하우가 있으신 분
-DevOps(AWS/Azure/GCP) 개발 경험이 있으신 분
-CI/CD 에 기반한 빌드/테스트/배포 자동화 환경 구성
-Git을 통한 형상관리 경험이 있으신 분
-
-우리는 이런 기술을 사용합니다! 🖥️
-Node.js - Express
-MySQL, Sequelize.js
-AWS EC2, EBS, RDS, S3",https://career.programmers.co.kr/job_positions/12194,https://www.itruck.co.kr/
-컨워스,8 명,"서울 서대문구 연세로 50, 공학원 417호","로보틱스 미들웨어, 사물인터넷(IoT), 응용 프로그램","Python
-Docker
-AWS EC2
-WebSocket
-WebRTC","영어로 된 문서에 대해 검색 및 독해가 익숙하신 분
-로보틱스/컴퓨터/전자공학 등 관련 분야 학사 이상 학위
-python 등의 언어 활용 능력 및 C++ binding으로 활용 가능하신 분
-Web Socket, WebRTC 등의 네트워크 통신에 이해가 있으신 분",경력 무관,"OpenCV 개발 관련 실무 경험이 있으신 분
-RTMP, RTSP, RTP 등과 같은 프로토콜을 사용한 실무 경험이 있으신 분
-실시간으로 영상을 스트리밍하는 실무 경험이 있으신 분
-NoSQL DB를 사용한 실무 경험이 있으신 분
-ReactJS를 사용한 웹 페이지 구축 실무 경험이 있으신 분",https://career.programmers.co.kr/job_positions/11412,http://conworth.io
-팀블랙버드,23 명,"서울 영등포구 의사당대로 83, (여의도동) 17층",데브옵스,"AWS EC2
-AWS S3
-AWS RDS
-Python
-Git
-PostgreSQL","- AWS 혹은 그에 준하는 클라우드 서비스를 운영해보신 경험이 있으신 분
-- 백엔드 인프라의 모니터링 서비스를 구축 혹은 운영해보신 경험이 있으신 분
-- CI/CD, 코드 컨벤션 등 팀 내 컨벤션을 구축해보신 경험이 있으신 분",3 ~ 10년,"- Cloud hosting service(especially AWS)를 깊이 사용하고 관리해보신 분
-- Terraform 등의 Infrastructure as code 관련 툴 사용 경험이 있으신 분
-- 투자, 암호화폐, 금융 분야에 대한 관심이 있으신 분",https://career.programmers.co.kr/job_positions/10977,https://cryptoquant.com/
-팀블랙버드,23 명,"서울 영등포구 의사당대로 83, (여의도동) 17층","서버/백엔드, 데이터 엔지니어링, 블록체인","Python
-SQL
-REST API
-Git
-AWS EC2
-AWS RDS
-AWS ElasticBeanstalk","그래서, 아래 기준에 잘 맞는 분을 찾습니다
-Hard Skills
-RDB or NoSQL, 데이터베이스에 대한 경험이 있으신 분
-RESTful API 및 SQL 혹은 NoSQL 기반의 데이터 모델링 경험이 있으신 분
-프로덕션 환경에서 파이썬(Python) 프로그래밍 및 스크립팅 개발 경험이 있으신 분
-Version Control System(especially Git)을 통해 협업을 해본 경험이 있으신 분
-웹 프레임워크(e.g. Flask, Django)의 기본적인 지식 혹인 사용한 경험이 있으신 분
-
-Soft Skills
-스스로 동기를 부여하며(self-motivated) 일의 완성도, 개선점을 고민하시는 분
-어떤 상황이 와도 업무의 마감 기한을 지키시는 책임감이 있으신 분",2 ~ 15년,"이런 경험이 있다면 더 좋습니다
-RDB or NoSQL, 데이터베이스와 관련된 경험이 3년 이상 혹은 그에 준하는 실력을 보유하신 분
-Cloud hosting service(especially AWS)를 깊이 사용하고 관리해보신 분
-PostgresSQL을 이용하여 Replication, Failover, Backup, Cluster등 Database에 관해 깊이 운영해 보신 분
-투자, 암호화폐, 금융 분야에 대한 관심이 있으신 분
-투자 데이터 활용과 분석에 대한 이해와 관심이 있으신 분",https://career.programmers.co.kr/job_positions/7476,https://cryptoquant.com/
-델레오코리아,46 명,"서울 강남구 테헤란로87길 36 (삼성동, 도심공항타워) 12층 델레오코리아","서버/백엔드, 시스템/네트워크, 응용 프로그램","AWS Cloud9
-AWS EC2
-AWS RDS
-AWS S3
-CI/CD
-CircleCI
-Google Container Registry
-Jenkins
-GitLab
-Git","학력: 초대졸 이상
-경력: 3년 ~ 8년(클라우드 설계/운영 경험)
-CI / CD 환경 구축 및 운영 경험
-OS, Network, DB, Server 에 대한 전반적인 이해와 지식보유
-Container 기반 환경 구축 및 운영 경험",3 ~ 8년,"백엔드 개발(Java) 경험
-대용량 서비스 구축/운영 경험
-MSA 구조에 대한 이해
-인프라, 어플리케이션 보안에 대한 이해
-트러블 슈팅과 품질 개선 업무에 대한 흥미
-Jenkins, Gitlab 등 CI Tool 사용 경험",https://career.programmers.co.kr/job_positions/6080,https://www.deleo.co.kr/#main
-옵틱라이프,5 명,01849 서울 노원구 동일로174길 27,"서버/백엔드, 웹 풀스택","Ruby on Rails
-CSS
-HTML
-JavaScript
-Vue.js
-Git
-AWS EC2","자격조건
-- 3년 이상 웹개발 경험
-- 데이터베이스에 대한 기본적 지식이 있는 분
-- AWS 사용에 익숙하며, 네트워크 및 클라우드 지식이 있는 분
-- Cloud 기반 환경에서 1년 이상 서비스 설계 및 구축, 운영 경험이 있는 분
-- RESTful API 설계 경험이 있는 분
-- 다른 직군의 팀원에게 자신의 의견을 명료하게 전달하고 원활하게 의사소통 할 수 있는 능력을 가지신 분
-- 플랫한 조직문화에 빠르게 적응해 모든 팀원과 수평적이고 효율적인 의사소통을 하실 수 있는 분",3 ~ 10년,"우대사항
-- 웹 개발 프로세스(설계, 구현, 테스트, 배포, 운영)에 대한 이해
-- Ruby on Rails를 이용한 웹 어플리케이션 개발 경험이 있으신 분
-- 웹 프론트에 대한 이해가 있으신 분 (HTML, CSS, JS, Vue.js)
-- 비즈니스를 고려해서 상황에 따라 최선의 기술을 선택할 수 있는 분",https://career.programmers.co.kr/job_positions/3842,http://www.opticlife.co.kr
