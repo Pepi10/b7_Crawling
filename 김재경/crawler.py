@@ -2,14 +2,14 @@ import pandas as pd
 from dotenv import load_dotenv
 import os, re
 
-from a_sminfo import CompanyCrawler
-from a_wanted import wanted_crawling_program
+from sminfo import CompanyCrawler
+from wanted import wanted_crawling_program
 
-from a_transform import (run_preprocess_career, 
-                         preprocess_address,
-                         TextProcessor_1,
-                         TextProcessor_2
-                         )
+from transform import (run_preprocess_career,
+                       preprocess_address,
+                       TextProcessor_1,
+                       TextProcessor_2
+                       )
 
 load_dotenv()
 print(os.getenv('userid'))
@@ -18,6 +18,8 @@ print(os.getenv('password'))
 def crawler():
 
 #########################################  Wanted  #########################################
+    ### 데이터 파일 경로 ###
+    data_file = 'wanted_temp.csv'
 
     ### 크롤링 ###
     wanted_res = wanted_crawling_program(1, 5)
@@ -42,7 +44,7 @@ def crawler():
     processed_data
 
     ### Wanted DataFrame Load ### 
-    processed_data.to_csv("wanted_res.csv", index = False)
+    processed_data.to_csv(data_file, index = False)
 
 ######################################### SM info #########################################
 
@@ -50,8 +52,7 @@ def crawler():
     url = 'https://sminfo.mss.go.kr/cm/sv/CSV001R0.do'
     username = os.getenv('userid')
     password = os.getenv('password')
-    # 데이터 파일 경로
-    data_file = 'wanted_res.csv'
+    ### 데이터 파일 경로 ###
     output_file = 'company_info.csv'
 
     ### CompanyCrawler ###
@@ -62,6 +63,14 @@ def crawler():
     ### SM info DataFrame Load ### 
     crawler.save_results(output_file)
     print(f"Results saved to {output_file}")
+
+#########################################   Merge   ########################################
+ 
+    wan = pd.read_csv(data_file)
+    sm = pd.read_csv(output_file)
+    sm.drop(columns = {'주소'}, inplace = True)
+    merged_df = pd.merge(sm, wan, on='기업명', suffixes=('_sm', '_wan'), how='inner')
+    merged_df.to_csv('wanted_res.csv', index = False)
 
 
 if __name__ == "__main__":

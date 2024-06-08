@@ -159,4 +159,4 @@ class TextProcessor_2:
             mapped_keywords = self.apply_word_mapping(keywords)
             data.at[idx, '우대사항_키워드'] = ', '.join(mapped_keywords)
         
-        return data.drop(columns='이용하는기술스택/우대사항')
+        return data
