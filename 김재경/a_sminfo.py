@@ -7,6 +7,10 @@ import re
 import time
 
 class CompanyCrawler:
+    """
+    sminfo는 1분에 3회이상 회사 검색시 1시간동안 사이트를 차단하는 특성이 있어
+    검색시간을 조절하였습니다. 
+    """
     def __init__(self, data_file, driver_options=None):
         self.data_file = data_file
         self.data = pd.read_csv(data_file) 
@@ -105,7 +109,7 @@ class CompanyCrawler:
                     self.scrape_company_info(corp_name)
                     time.sleep(3)
                     self.driver.back()
-                    time.sleep(57) 
+                    time.sleep(27) 
             except Exception as ex:
                 print(f"Error processing {corp_name}: {ex}")
                 pass
