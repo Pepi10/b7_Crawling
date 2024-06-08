@@ -19,13 +19,15 @@ def crawler():
 
 #########################################  Wanted  #########################################
     ### 데이터 파일 경로 ###
-    data_file = 'wanted_temp.csv'
+    data_file = 'wanted_res.csv'
 
-    ### 크롤링 ###
+    ### 크롤링 ###s
     wanted_res = wanted_crawling_program(1, 5)
     wanted_res.기업명 = wanted_res.기업명.apply(lambda x: re.sub(r'\([^)]*\)','',x))
     wanted_res.기업명 = wanted_res.기업명.apply(lambda x: re.sub('\\W', '', x))
-
+    wanted_res.to_csv(data_file, index = False)
+    wanted_res = pd.read_csv(data_file)
+    
     ### 직급, 주소 전처리 ###
     run_preprocess_career(wanted_res)
     preprocess_address(wanted_res)
