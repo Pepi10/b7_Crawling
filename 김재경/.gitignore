@@ -1,2 +1,6 @@
 data/
 .vscode/
+.env
+pepi10/
+__pycache__
+*.csv
