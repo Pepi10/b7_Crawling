@@ -46,24 +46,20 @@ def crawler():
 
 ######################################### SM info #########################################
 
+    ### CompanyCrawler 인자 ###
     url = 'https://sminfo.mss.go.kr/cm/sv/CSV001R0.do'
     username = os.getenv('userid')
     password = os.getenv('password')
-
     # 데이터 파일 경로
     data_file = 'wanted_res.csv'
     output_file = 'company_info.csv'
 
-    # 크롤러 객체 생성
+    ### CompanyCrawler ###
     crawler = CompanyCrawler(data_file)
-    
-    # 로그인
     crawler.login(url, username, password)
-    
-    # 크롤링 수행
     crawler.crawl()
     
-    # 결과 저장
+    ### SM info DataFrame Load ### 
     crawler.save_results(output_file)
     print(f"Results saved to {output_file}")
 
