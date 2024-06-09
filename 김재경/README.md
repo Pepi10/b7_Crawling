@@ -1,4 +1,12 @@
-## AWS_채용공고_김재경.pdf 참고
+## 데이터 수집 프로젝트
+* 목적
+  * AWS 교육 서비스를 진행하기 위해 관련 업체의 채용정보를 수집하기 위함
+* 프로젝트 설명
+  * __AWS_채용공고_김재경.pdf__
+* 느낀점
+  * Selenium을 사용하여 드라이버를 컨트롤 하는 법에 익숙해졌다.
+  * LSD (Latent Semantic Analysis)와 LDA (Latent Dirichlet Allocation), TF-IDF를 통해 키워드 추출하는 법을 공부.
+  * 첫 프로젝트라 처리방식과 스케줄링에 어려움을 겪었다. 본인 역량 파악이 중요한 것 같다.
 
 ## Libraries
 
