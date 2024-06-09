@@ -6,7 +6,8 @@ import seaborn as sns
 import matplotlib.font_manager as fm
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
-
+import streamlit as st
+from PIL import Image
 import warnings
 warnings.filterwarnings("ignore")
 
@@ -49,7 +50,7 @@ def sales_distribution(data):
     for p in hist4.patches:
         plt.text(p.get_x() + p.get_width() / 2., p.get_height(), '%d' % int(p.get_height()), 
                  fontsize=12, color='black', ha='center', va='bottom')
-    plt.show()
+    st.pyplot(plt)
 
 def establishment_year(data):
     """
@@ -73,7 +74,7 @@ def establishment_year(data):
     for p in hist.patches:
         plt.text(p.get_x() + p.get_width() / 2., p.get_height(), '%d' % int(p.get_height()), 
                  fontsize=12, color='black', ha='center', va='bottom')
-    plt.show()
+    st.pyplot(plt)
 
 def position_years(data):
     """
@@ -98,7 +99,7 @@ def position_years(data):
         plt.text(p.get_x() + p.get_width() / 2., p.get_height(), '%d' % int(p.get_height()), 
                  fontsize=12, color='black', ha='center', va='bottom')
 
-    plt.show()
+    st.pyplot(plt)
 
 def industry_distribution(data):
     """
@@ -126,7 +127,7 @@ def industry_distribution(data):
     plt.xticks(fontsize=20, color='black')
     plt.yticks(fontsize=20, color='black')
     plt.grid(axis='x', linestyle='--')
-    plt.show()
+    st.pyplot(plt)
 
 def address(data):
     """
@@ -156,7 +157,7 @@ def address(data):
     plt.xticks(fontsize=20, color='black')
     plt.yticks(fontsize=20, color='black')
     plt.grid(axis='x', linestyle='--')
-    plt.show()
+    st.pyplot(plt)
 
 def visualize_wordcloud(data, font_path, stopwords=None):
     """
@@ -175,8 +176,8 @@ def visualize_wordcloud(data, font_path, stopwords=None):
     # 워드클라우드 생성
     wordcloud = WordCloud(width=800, height=400, background_color='white', font_path=font_path, stopwords=stopwords).generate(text)
 
-    # 워드클라우드 그리기
-    plt.figure(figsize=(10, 6))
-    plt.imshow(wordcloud, interpolation='bilinear')
-    plt.axis('off')
-    plt.show()
+    # 워드클라우드를 이미지로 변환
+    wordcloud_image = wordcloud.to_image()
+
+    # Streamlit에 워드클라우드 이미지 표시
+    st.image(wordcloud_image, use_column_width=True)

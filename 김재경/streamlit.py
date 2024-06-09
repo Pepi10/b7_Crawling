@@ -35,5 +35,5 @@ address(data)
 
 ## 6. 자격요건 및 우대사항 워드클라우드 시각화
 st.header("자격요건 및 우대사항 워드클라우드")
-stop_words = ['가지', '회화', '학력', '경력', '심층', '학사이상', '익숙', '전반', '숙련', '실무']
+stop_words = ['불합격', '불균형', '휴가', '부서', '가지', '회화', '학력', '경력', '심층', '학사이상', '익숙', '전반', '숙련', '실무']
 visualize_wordcloud(data, font_path='C:/Windows/Fonts/malgun.ttf', stopwords=stop_words)
