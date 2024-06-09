@@ -1,4 +1,4 @@
-## AWS_채용공고_김재경.pdf 참
+## AWS_채용공고_김재경.pdf 참고
 
 ## Libraries
 
